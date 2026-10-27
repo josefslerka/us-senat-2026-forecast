@@ -5,11 +5,13 @@ LEAD = ("Pravděpodobnostní předpověď voleb do Senátu USA 3. 11. 2026: dev�
         "Čistá AI bez kurzů a bez volebních modelů, vedle ní sázkové kurzy, profesionální volební model a jejich srovnání. "
         "Po volbách vše vyhodnotíme podle předem zveřejněných pravidel.")
 
-STATUS_BOX = """<div class="card" style="border-left:4px solid var(--accent)"><h2 style="margin-top:0">Stav · út 27. 10. 2026, {TIME}</h2>
+STATUS_BOX = """<div class="card" style="border-left:4px solid var(--accent)"><h2 style="margin-top:0">Co je dnes nového · út 27. 10. 2026, {TIME}</h2>
 <ul>
-<li><b>Pravidla jsou zapsaná</b> předem, před prvním odhadem (<a href="pravidla.html">Pravidla</a>).</li>
-<li>Teď sbíráme oficiální seznamy kandidátů, průzkumy a údaje o přesnosti jednotlivých agentur.</li>
-<li>Předpovědi AI zveřejníme během čtvrtka a pátku. Hodnotí se verze zamčená v pondělí 2. 11. ve 12:00.</li>
+<li><b>AI předpovědi pro všech 11 otázek jsou hotové</b>, zamčené ve 21:09. Kurzy a model jsme četli až potom.</li>
+<li><b>Všechny série mají stejného favorita</b> v 11 z 11 otázek.</li>
+<li><b>AI je opatrnější než sázky</b> v 9 z 11, stejně jako u Senátu ČR a na Slovensku. Víc než sázky věří favoritovi jen v Iowě (Hinson 69 % proti 57 %); v Nebrasce jsou skoro stejně.</li>
+<li><b>AI je blízko modelu The Economist:</b> v 6 z 11 otázek do 2,5 bodu. Nejvíc se liší v Nebrasce (Ricketts: AI 72 %, model 84 %) a u Sněmovny (85 % proti 95 %).</li>
+<li>Hodnotí se verze zamčená v pondělí 2. 11. ve 12:00. Do té doby AI měníme jen při novém faktu.</li>
 </ul>
 <p style="margin-bottom:0"><a href="pravidla.html">Pravidla →</a> · <a href="denik.html">Deník →</a></p></div>"""
 
@@ -55,6 +57,30 @@ než průměr průzkumů. Vzorek je malý, rozdíly budeme formulovat opatrně a
 <h2>Pořadí každý den</h2><p>Zprávy → případný update AI → zamknutí → teprve potom kurzy a model.</p>"""
 
 JOURNAL = """<h1>Deník</h1>
+<h2>Út 27. 10. 2026 večer: den 0, první předpovědi</h2>
+<h3>Co se stalo</h3><ul>
+<li>20:26 pravidla (předregistrace), 20:35 oficiální seznamy kandidátů, 20:43 sdílený soubor průzkumů, ratingů a přesnosti agentur. Časy podle commitů.</li>
+<li>Čtyři skupiny agentů prošly celou pipeline pro 11 otázek. Zamčeno ve 21:09.</li>
+<li>Pak jsme přečetli kurzy Tipsportu (9 států a kombinace Senát/Sněmovna) a Fortuny (kombinace) a data modelu The Economist.</li></ul>
+<h3>Co vidíme</h3><ul>
+<li><b>Stejný favorit všude.</b> Liší se jen jistota.</li>
+<li><b>K sázkám:</b> AI je opatrnější v 9 z 11, nejvíc v Minnesotě (77 % proti 91 %) a u kontroly Senátu (60 % proti 70 %). <b>Od sázek:</b> v Iowě dává AI Hinsonovi víc (69 % proti 57 %).</li>
+<li><b>K modelu:</b> v šesti otázkách (Florida, Iowa, Jižní Karolína, Michigan, Minnesota, Ohio) se AI a model The Economist liší nejvýš o 2,5 bodu. Obě série stojí na stejných průzkumech, takže blízkost je čekaná. Zčásti ji ale mohou vysvětlovat i slovní kategorie modelů, které agenti zahlédli na Wikipedii (viz níže). <b>Od modelu:</b> Nebraska (AI 72 %, model 84 %), Sněmovna (85 % proti 95 %), Kansas a Texas (o 6 bodů).</li>
+<li><b>Extremizovaná AI</b> mění pět otázek, kde AI dává favoritovi aspoň 70 %: Floridu, Jižní Karolínu, Minnesotu, Nebrasku a Sněmovnu. Většinou ji to přibližuje k sázkám i modelu, v Nebrasce je s 84 % nad sázkami (75 %).</li>
+<li><b>Vnitřní konzistence AI:</b> předpověď kontroly Senátu si počítá vlastní čísla po státech a ta se od samostatných předpovědí liší o 1–6 bodů (např. Ohio 69 % proti 63 %). Necháváme to tak a po volbách se podíváme, která čísla byla blíž.</li></ul>
+<h3>Možné ovlivnění (⚠ u všech 11 otázek)</h3><ul>
+<li>Ve výsledcích vyhledávání se agentům objevovaly titulky stránek s kurzy a modely. V Kansasu researcher otevřel článek Newsweeku kvůli ratingu Sabato a v článku byla i cena z Polymarketu. Číslo nezapsal a forecaster ani red-team článek neviděli.</li>
+<li>Wikipedie má u každého závodu tabulku, která míchá povolené slovní ratingy (Cook, Sabato, Inside Elections) se slovními kategoriemi modelů. Agenti ji viděli opakovaně. Čísla modelů v ní nejsou.</li>
+<li>Do fází odhadu šel vždy jen očištěný brief bez těchto položek.</li></ul>
+<h3>Chyby a nápravy</h3><ul>
+<li><b>Posunuté sloupce v tabulkách průzkumů.</b> Ve 13 řádcích sdíleného souboru byla chybná marže (např. Michigan „+40“ místo +5). <i>Příčina:</i> převod tabulek z Wikipedie s prázdnými buňkami. <i>Náprava:</i> agenti marže přepočítali z podílů sami; soubor jsme po předpovědích opravili.</li>
+<li><b>Tabulky predikcí na Wikipedii.</b> <i>Náprava:</i> pro denní updaty je agentům zakazujeme, ratingy berou jen ze sdíleného souboru.</li>
+<li><b>Model Silver Bulletin je jen pro předplatitele.</b> <i>Náprava:</i> podle předem zapsaného pořadí bereme druhý, The Economist, který data zveřejňuje.</li></ul>
+<h3>Nové zdroje dne</h3><ul>
+<li>Model: <a href="https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate">The Economist, Senát</a> · <a href="https://www.economist.com/interactive/2026/us-midterms/prediction-model/house">Sněmovna</a></li>
+<li>Průzkumy a průměry: 270toWin, RealClearPolling, Wikipedie „2026 United States Senate election in &lt;stát&gt;“ (seznam se zdroji v <a href="https://github.com/josefslerka/us-senat-2026-forecast">repozitáři</a>)</li>
+<li>Přesnost agentur: <a href="https://www.natesilver.net/p/pollster-ratings-silver-bulletin">Silver Bulletin pollster ratings</a></li></ul>
+<h3>Co dál</h3><p>Denně projdeme zprávy a nové průzkumy. AI se mění jen při novém faktu, pořadí: update → zámek → kurzy a model. Freeze v pondělí 2. 11. ve 12:00, večer poslední čtení kurzů.</p>
 <h2>Út 27. 10. 2026: den 0, start</h2>
 <ul>
 <li>Rozhodli jsme se pro třetí případovou studii: Senát USA. Zapsali jsme pravidla dřív, než vznikl jakýkoli odhad.</li>
@@ -64,3 +90,7 @@ AI musí ke každému státu uvést očekávané podíly hlasů; před prvním o
 poslední čtení kurzů plánujeme na večer před volbami, ne na ráno.</li>
 </ul>
 <h3>Co dál</h3><p>Oficiální seznamy kandidátů, průzkumy a přesnost agentur. Pak AI předpovědi.</p>"""
+
+TABLE_NOTE = ("Pravděpodobnost, že vyhraje favorit AI. Extremizovaná AI: když AI dává favoritovi aspoň 70 %, posuneme ji dál od 50 % "
+              "(α = √3). Model: The Economist. Sázky: Tipsport, u Senátu a Sněmovny průměr Tipsportu a Fortuny, po odečtení marže. "
+              "⚠ U všech otázek agenti zahlédli titulky stránek s kurzy nebo modely, čísla nepoužili (viz deník).")

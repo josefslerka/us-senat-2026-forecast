@@ -1,0 +1,36 @@
+race_id,key,name,party,incumbent,source
+us-sen-fl,moody,Ashley Moody,R,yes,FL DOS Candidate Listing elecid=20261103-GEN
+us-sen-fl,nixon,Angie Nixon,D,no,FL DOS Candidate Listing elecid=20261103-GEN
+us-sen-fl,gillespie,Neil J. Gillespie,NPA,no,FL DOS Candidate Listing elecid=20261103-GEN
+us-sen-ia,hinson,Ashley Hinson,R,no,Iowa SoS 2026 General Candidate List (via search snippet; PDF behind Cloudflare) + Ballotpedia
+us-sen-ia,turek,Josh Turek,D,no,Iowa SoS 2026 General Candidate List (via search snippet; PDF behind Cloudflare) + Ballotpedia
+us-sen-ia,laehn,Thomas Laehn,L,no,Iowa SoS 2026 General Candidate List (via search snippet; PDF behind Cloudflare) + Ballotpedia
+us-sen-sc,graham,Darline Graham,R,yes,SC Election Commission VREMS candidate listing 11/03/2026 (status Active)
+us-sen-sc,andrews,Annie Andrews,D,no,SC Election Commission VREMS candidate listing 11/03/2026 (status Active)
+us-sen-sc,hackett,Mark Hackett,Constitution,no,SC Election Commission VREMS candidate listing 11/03/2026 (status Active)
+us-sen-sc,whitener,Kasie Whitener,L,no,SC Election Commission VREMS candidate listing 11/03/2026 (status Active)
+us-sen-ks,marshall,Roger Marshall,R,yes,Kansas SoS candidate list 2026 General
+us-sen-ks,hamilton,Adam Hamilton,D,no,Kansas SoS candidate list 2026 General
+us-sen-ks,graham,David C. Graham,L,no,Kansas SoS candidate list 2026 General
+us-sen-mi,elsayed,Abdul El-Sayed,D,no,Ballotpedia + Green Papers citing MI SoS 2026 November General Candidate Listing (michigan.gov 403)
+us-sen-mi,rogers,Mike Rogers,R,no,Ballotpedia + Green Papers citing MI SoS 2026 November General Candidate Listing (michigan.gov 403)
+us-sen-mi,marsh,Douglas P. Marsh,G,no,Ballotpedia + Green Papers citing MI SoS 2026 November General Candidate Listing (michigan.gov 403)
+us-sen-mi,christensen,Lydia Christensen,L,no,Ballotpedia + Green Papers citing MI SoS 2026 November General Candidate Listing (michigan.gov 403)
+us-sen-mi,kristy,Walter P. Kristy,Natural Law,no,Ballotpedia + Green Papers citing MI SoS 2026 November General Candidate Listing (michigan.gov 403)
+us-sen-mi,long,Timothy E. Long,U.S. Taxpayers,no,Ballotpedia + Green Papers citing MI SoS 2026 November General Candidate Listing (michigan.gov 403)
+us-sen-mn,flanagan,Peggy Flanagan,DFL,no,MN SoS candidate filings (Nov 3 2026) + MN SoS primary results 8/11/2026
+us-sen-mn,tafoya,Michele Tafoya,R,no,MN SoS candidate filings (Nov 3 2026) + MN SoS primary results 8/11/2026
+us-sen-mn,whiting,Rebecca Whiting,L,no,MN SoS candidate filings (Nov 3 2026)
+us-sen-mn,simonetti,Marisa Simonetti,Independent,no,MN SoS candidate filings (Nov 3 2026)
+us-sen-ne,ricketts,Pete Ricketts,R,yes,Nebraska SoS Final Statewide General Candidate List 9/11/2026
+us-sen-ne,osborn,Dan Osborn,Independent (By Petition),no,Nebraska SoS Final Statewide General Candidate List 9/11/2026
+us-sen-ne,conboy,Chuck Conboy,America First,no,Nebraska SoS Final Statewide General Candidate List 9/11/2026
+us-sen-ne,marvin,Mike Marvin,Legal Marijuana NOW,no,Nebraska SoS Final Statewide General Candidate List 9/11/2026
+us-sen-ne,richards,Robin Richards,Nebraska Working People,no,Nebraska SoS Final Statewide General Candidate List 9/11/2026
+us-sen-oh,husted,Jon Husted,R,yes,Lake County BOE General Candidate List 8/25/2026 + Hamilton County BOE notice (ohiosos.gov 403)
+us-sen-oh,brown,Sherrod Brown,D,no,Lake County BOE General Candidate List 8/25/2026 + Hamilton County BOE notice (ohiosos.gov 403)
+us-sen-oh,redpath,William B. Redpath,L,no,Lake County BOE General Candidate List 8/25/2026 + Hamilton County BOE notice (ohiosos.gov 403)
+us-sen-oh,levy,Greg Levy,Other-party (Independent; PSL member),no,Lake County BOE General Candidate List 8/25/2026 + Ballotpedia (SoS certification not seen directly)
+us-sen-tx,paxton,Ken Paxton,R,no,Texas SoS final ballot certification 2026-08-28
+us-sen-tx,talarico,James Talarico,D,no,Texas SoS final ballot certification 2026-08-28
+us-sen-tx,brown,Ted Brown,L,no,Texas SoS final ballot certification 2026-08-28
