@@ -35,6 +35,39 @@ table.cards td{border:0;padding:3px 0;display:flex;justify-content:space-between
 table.cards td::before{content:attr(data-label);color:var(--muted);text-align:left}
 table.cards td.head{font-weight:600;font-size:17px}table.cards td.head::before{content:none}}
 </style></head><body><div class="wrap"><header><a class="brand" href="index.html">USA 2026 · Senát · forecast</a><nav><a href="index.html">Přehled</a><a href="pravidla.html">Pravidla</a><a href="denik.html">Deník</a></nav></header><h1>Deník</h1>
+<h2>Čt 29. 10. 2026: den 2</h2>
+<h3>Co se stalo</h3><ul>
+<li>11:48–11:59 sweep zpráv a průzkumů od středečního večera. Nové průzkumy v Kansasu, Michiganu, Minnesotě a Texasu, mimo jiné série CNN/SSRS. V Ohiu jsme našli srpnový průzkum, který jsme dosud neměli, a v Jižní Karolíně pokračuje spor kolem Normana.</li>
+<li>Update jsme pustili u sedmi otázek s novým faktem (Kansas, Michigan, Minnesota, Texas, Jižní Karolína, Ohio a kontrola Senátu). Zamčeno ve 12:11, kurzy a model jsme četli až potom.</li>
+<li><b>Večerní kolo</b> (na žádost, druhé za den): sweep 22:47–22:56 včetně závodů mimo našich devět států, update u devíti otázek s novým faktem (všechny kromě Floridy a Minnesoty), zámek ve 23:08, kurzy 23:08–23:10. Na webu je večerní verze; dopolední je v repozitáři.</li></ul>
+<h3>Co se změnilo</h3><ul>
+<li><b>Michigan</b> 67 → 72 % (El-Sayed). Dva nové průzkumy po +7, každý jsme očistili o známé zkreslení agentury a vážili v rámci průměru.</li>
+<li><b>Texas</b> 58 → 60 % (Talarico). CNN/SSRS +6 a stranický průzkum YouGov Blue se slevou. Hraniční změna: s o něco menší vahou nových průzkumů by zůstalo 58 %.</li>
+<li><b>Kansas</b> (večer) 54 → 51 % (Marshall). CNN/SSRS Hamilton +4 a zpráva, že Trump zrušil sobotní akci s Marshallem (jen jeden zdroj, se slevou). Dopoledne to bylo −1,8 bodu, pod prahem. Hraniční: bez zrušené akce by zůstalo 54 %.</li>
+<li><b>Texas</b> (večer) 60 → 64 % (Talarico). Čtyři další průzkumy (+2 až +4) a sjednocená korekce agentur: pro Texas jsme dopoledne korigovali agentury jinak než u ostatních průzkumů a navíc přičítali historickou chybu státu, což instrukce zakazují (dvojí započtení). Samotné nové průzkumy dávají +2,1, sjednocení dalších +1,8 bodu.</li>
+<li>Pod prahem 2 bodů: Michigan večer (+1,8, těsně), Jižní Karolína, Ohio, Minnesota, Iowa, Nebraska, kontrola Senátu (+1,8 večer) a Sněmovna. Interní průzkum Tafoyové v Minnesotě (+3,4) sedí v říjnovém pásmu. Inside Elections večer posunul ratingy v šesti našich státech; ty jsme nevážili zvlášť, protože stojí na stejných průzkumech.</li>
+<li>Kontrola Senátu je hraniční v obou kolech: na Aljašce začalo trestní šetření kampaně Peltolové (zpráva NYT 28. 10., předvolání ministerstva spravedlnosti; obě strany obvinění popírají). Odhad jeho dopadu je úsudek. Kdybychom ho ignorovali, AI by se posunula o +2,6 bodu a update by prošel.</li></ul>
+<h3>Co vidíme</h3><ul>
+<li><b>K sázkám</b> (večer proti dopoledni): Kansas (sázky 63 → 53 %, rozdíl 9 → 2 body; zároveň se k nim pohnula AI), Jižní Karolína (77 → 72 %, rozdíl 10 → 5) a Texas (rozdíl 9 → 7 díky našemu updatu). <b>Od sázek:</b> Iowa (sázky Hinson 56 → 52 %, rozdíl 13 → 17), Minnesota (91 → 94 %, rozdíl 7 → 10) a Michigan (76 → 78 %). Celkově je AI opatrnější než sázky v 10 z 11 otázek, výjimka je dál Iowa.</li>
+<li><b>K modelu:</b> v Michiganu jsou AI a The Economist blízko (72 proti 70 %). <b>Od modelu:</b> v Texasu se rozdíl zvětšil (64 proti 53 %) a v Kansasu taky (51 proti 62 %). Do 2,5 bodu od modelu je AI ve 4 z 11 otázek (včera 5). Největší rozdíly: Nebraska 13, Jižní Karolína 11, Texas 11, Kansas 11, Sněmovna 10 bodů. Model se mezi dopolednem a večerem nezměnil.</li></ul>
+<h3>Možné ovlivnění</h3><ul>
+<li>Agenti ve výsledcích vyhledávání zahlédli titulky s kurzy (Iowa, Kansas, Ohio, Maine, Texas, Nebraska) a dvakrát pravděpodobnost z modelu ve výtahu vyhledávače (Kansas, Texas). Neotevřeli je a čísla nezapsali.</li>
+<li>Večerní sweep přes zákaz otevřel tabulky predikcí na Wikipedii, kde jsou slovní kategorie modelů. Do souboru pro AI se nedostaly.</li>
+<li>Večerní kolo jsme spustili, když jsme už znali dopolední kurzy. Výběr otázek byl proto znovu mechanický (každá otázka s novým faktem).</li></ul>
+<h3>Chyby a nápravy</h3><ul>
+<li><b>Chybný řádek v souboru průzkumů</b> (Texas, YouGov Blue: „jiní 2 %“, na zdroji 5 % nerozhodnutých). <i>Náprava:</i> opraveno; marže se nemění.</li>
+<li><b>Data o předčasném hlasování ve Floridě</b>, která si včera odporovala, jsme ověřili v oficiálních souborech státu. V roce 2022 vedli republikáni ke stejnému dni o 177 tisíc hlasů, letos o 35 tisíc.</li>
+<li><b>Chybějící fakta:</b> průzkum CNN v Maine a kauzu na Aljašce našel až agent pro kontrolu Senátu, ne ranní sweep. <i>Náprava:</i> doplníme je do souboru průzkumů a zítřejší sweep projde i závody mimo našich devět států.</li>
+<li><b>Zkreslení agentur</b> se dnes bralo ze správného sloupce; včerejší záměna se neopakovala.</li>
+<li><b>Výpadek Tipsportu</b> během dopoledního čtení kurzů (asi 12:14–12:22). Iowu, Jižní Karolínu a Kansas jsme dočetli ve 12:23, stále po zámku.</li>
+<li><b>Nejednotná korekce agentur v Texasu</b> (dopoledne). <i>Náprava:</i> večer sjednoceno podle pravidel z 27. 10. (viz Texas výš).</li></ul>
+<h3>Nové zdroje dne</h3><ul>
+<li><a href="https://www.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis">CNN/SSRS: Michigan, Maine, Texas, Kansas</a> · <a href="https://www.cbsnews.com/detroit/news/el-sayed-widens-lead-rogers-michigan-senate-poll/">Mitchell/CBS Detroit</a> (Michigan)</li>
+<li><a href="https://concordpublicopinionpartners.org/polls/ohio-ge-2026">Concord</a> (Ohio, srpen) · <a href="https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_MN-GE-26_10-28-26.pdf">Victory Insights pro Tafoyovou</a> (Minnesota)</li>
+<li><a href="https://www.postandcourier.com/politics/ralph-norman-write-in-senate-darline-graham/article_2ebbcfd4-c210-40f9-8825-10729cd59805.html">Post and Courier o kampani za Normana</a> · <a href="https://www.wistv.com/2026/10/28/dr-annie-andrews-responds-write-in-campaign-ralph-norman-us-senate-race/">WIS-TV</a></li>
+<li><a href="https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats">Florida Division of Elections</a>: oficiální data o předčasném hlasování</li>
+<li>Večer: Inside Elections (změny ratingů 29. 10.), East Carolina University (Jižní Karolína), co/efficient (Iowa), ActiVote, Texas Southern University a A2 Insights (Texas), MSU/Verasight (Michigan), NBC a Juneau Independent o šetření na Aljašce</li></ul>
+<h3>Co dál</h3><p>Pátek 30. 10.: stejný postup. Freeze v pondělí 2. 11. ve 12:00.</p>
 <h2>St 28. 10. 2026: den 1, první update</h2>
 <h3>Co se stalo</h3><ul>
 <li>21:02–21:08 sweep zpráv a průzkumů od úterního večera. Nové průzkumy ve Floridě, Jižní Karolíně, Minnesotě, Ohiu a Texasu, nový celostátní průzkum (generic ballot) a v Jižní Karolíně spor uvnitř republikánů.</li>

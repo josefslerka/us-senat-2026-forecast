@@ -1,0 +1,218 @@
+{
+ "date": "2026-10-29",
+ "devig": "power",
+ "rho": 0.55,
+ "races": {
+  "us-sen-fl": {
+   "market": {
+    "Moody": 0.9357073612825099,
+    "Nixon": 0.06429263871749025,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Moody": 0.9255709800334198,
+    "Nixon": 0.07400954401755337,
+    "Someone_else": 0.00041947594902686365
+   },
+   "books": {
+    "tipsport": {
+     "Moody": 0.9357073612825099,
+     "Nixon": 0.06429263871749025,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-ia": {
+   "market": {
+    "Hinson": 0.5230650070325628,
+    "Turek": 0.4769349929674373,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Hinson": 0.5791943102860113,
+    "Turek": 0.4203856769381603,
+    "Someone_else": 0.0004200127758283643
+   },
+   "books": {
+    "tipsport": {
+     "Hinson": 0.5230650070325628,
+     "Turek": 0.4769349929674373,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-sc": {
+   "market": {
+    "Graham": 0.7191648439541817,
+    "Andrews": 0.2808351560458185,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Graham": 0.7061662726168138,
+    "Andrews": 0.2934139804308869,
+    "Someone_else": 0.00041974695229934515
+   },
+   "books": {
+    "tipsport": {
+     "Graham": 0.7191648439541817,
+     "Andrews": 0.2808351560458185,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-ks": {
+   "market": {
+    "Marshall": 0.5292640765188579,
+    "Hamilton": 0.47073592348114224,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Marshall": 0.5245476191153106,
+    "Hamilton": 0.47511481979272924,
+    "Someone_else": 0.0003375610919601223
+   },
+   "books": {
+    "tipsport": {
+     "Marshall": 0.5292640765188579,
+     "Hamilton": 0.47073592348114224,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-mi": {
+   "market": {
+    "ElSayed": 0.7785790695417533,
+    "Rogers": 0.22142093045824673,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "ElSayed": 0.7621970337009671,
+    "Rogers": 0.23746545453420814,
+    "Someone_else": 0.0003375117648246525
+   },
+   "books": {
+    "tipsport": {
+     "ElSayed": 0.7785790695417533,
+     "Rogers": 0.22142093045824673,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-mn": {
+   "market": {
+    "Flanagan": 0.9357073612825099,
+    "Tafoya": 0.06429263871749025,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Flanagan": 0.9143673833454301,
+    "Tafoya": 0.0852952693181065,
+    "Someone_else": 0.00033734733646338303
+   },
+   "books": {
+    "tipsport": {
+     "Flanagan": 0.9357073612825099,
+     "Tafoya": 0.06429263871749025,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-ne": {
+   "market": {
+    "Ricketts": 0.7368965566696015,
+    "Osborn": 0.26310344333039865,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Ricketts": 0.7325876029595527,
+    "Osborn": 0.26707484698398437,
+    "Someone_else": 0.00033755005646293035
+   },
+   "books": {
+    "tipsport": {
+     "Ricketts": 0.7368965566696015,
+     "Osborn": 0.26310344333039865,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-oh": {
+   "market": {
+    "Brown": 0.7368965566696015,
+    "Husted": 0.26310344333039865,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Brown": 0.7011019555336772,
+    "Husted": 0.2985605438859736,
+    "Someone_else": 0.00033750058034926584
+   },
+   "books": {
+    "tipsport": {
+     "Brown": 0.7368965566696015,
+     "Husted": 0.26310344333039865,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-sen-tx": {
+   "market": {
+    "Talarico": 0.7072996438858731,
+    "Paxton": 0.29270035611412687,
+    "Someone_else": 0.0
+   },
+   "blend": {
+    "Talarico": 0.6878874583451783,
+    "Paxton": 0.3118248150277569,
+    "Someone_else": 0.0002877266270647071
+   },
+   "books": {
+    "tipsport": {
+     "Talarico": 0.7072996438858731,
+     "Paxton": 0.29270035611412687,
+     "Someone_else": 0.0
+    }
+   }
+  },
+  "us-senate-control": {
+   "market": {
+    "Democrats": 0.7019968427286496,
+    "Republicans": 0.2980031572713505
+   },
+   "blend": {
+    "Democrats": 0.6718904305369756,
+    "Republicans": 0.3281095694630245
+   },
+   "books": {
+    "fortuna": {
+     "Democrats": 0.6993373066690828,
+     "Republicans": 0.30066269333091733
+    },
+    "tipsport": {
+     "Democrats": 0.7046563787882165,
+     "Republicans": 0.29534362121178376
+    }
+   }
+  },
+  "us-house-control": {
+   "market": {
+    "Democrats": 0.9274076656703814,
+    "Republicans": 0.07259233432961876
+   },
+   "blend": {
+    "Democrats": 0.9084824159038194,
+    "Republicans": 0.0915175840961807
+   },
+   "books": {
+    "fortuna": {
+     "Democrats": 0.93010204187649,
+     "Republicans": 0.06989795812350999
+    },
+    "tipsport": {
+     "Democrats": 0.9247132894642728,
+     "Republicans": 0.07528671053572751
+    }
+   }
+  }
+ }
+}
