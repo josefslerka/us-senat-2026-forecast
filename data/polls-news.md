@@ -727,3 +727,106 @@ Průměr chyb podle státu (všechny řádky výše, prosté průměry): FL +6,5
 - **Ratingy agentur:** Silver Bulletin (leden 2026); archiv 538 pollster ratings neotevřen (538 ukončeno), proto jen SB. Mnoho agentur z roku 2026 (ActiVote, RedBox, Verasight, TPOR, UT/TPP aj.) nemá rating.
 - **Vynecháno záměrně:** veškeré kurzy, predikční trhy, pravděpodobnosti a modelové kategorie (Economist, Silver Bulletin model, Split Ticket, FiftyPlusOne forecast, DDHQ forecast, RCP „No Toss-up" mapy). Ratingy Fox News, NBC a RCP (handicapper) také vynechány (nebyly požadovány).
 
+
+---
+
+## Doplněk 28. 10. 2026 (sweep 21:02–21:08 CET, okno od 27. 10. 20:00 CET)
+
+Zdroj tabulek: Wikipedia raw wikitext stažený 28. 10. ~21:00 CET (jen tabulky průzkumů a průměrů průzkumů, ne „Predictions"); vybrané průzkumy ověřeny na primárním PDF/webu (sloupec Ověření). Marže = D − R (NE: Osborn − Ricketts).
+
+### us-sen-fl — Florida: 2 nové průzkumy
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Moody (R) | Nixon (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| St. Pete Polls | pro FloridaPolitics.com; IVR + SMS; zveř. 27. 10. | October 25–27, 2026 | 916 (LV) | ± 3.2% | 49.0% | 44.7% | 2.6% („Someone else") | 3.7% | -4 (přesně −4,3) | [PDF via DDHQ](https://data.ddhq.io/polls/2026/10/28/St.-Pete-Polls-Florida) | **primární PDF** (dílčí: „already voted" Nixon 56,4 / Moody 40,5; „plan to vote" Moody 57,1 / Nixon 34,0) |
+| New York Times/Siena University | zveř. 28. 10. | October 19–25, 2026 | 813 (LV) | ± 3.9% | 50% | 44% | 0% | 5% | -6 | [NYT toplines](https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-toplines.html) | čísla ověřena na [SRI Siena](https://sri.siena.edu/2026/10/28/nytimes-siena-poll-of-likely-voters-florida-minnesota-and-south-carolina/); terén/n/MoE jen Wikipedia |
+
+**Průměry průzkumů (Wikipedia, aktualizace 28. 10.):** 270toWin (zveř. 12.–27. 10.) Moody 50,2 / Nixon 43,8 → **−6,4**; DDHQ (do 27. 10.) 49,8 / 43,3 → −6,5; RCP (2.–27. 10.) 49,5 / 43,2 → **−6,3** (dříve −7,3). Průměr řádku Wikipedia −6,2 (sic).
+
+**Zprávy:** Nixon měla 27. 10. večer mítink v Kissimmee (1 071 lidí dle ochranky); Trump má podle téhož zdroje přijet do FL v pátek 30. 10. — jen sekundární ([Hoodline](https://hoodline.com/2026/10/1-071-pack-kissimmee-venue-as-angie-nixon-closes-gap-on-ashley-moody/), 28. 10.; neověřeno).
+
+### us-sen-sc — Jižní Karolína: 2 nové průzkumy + materiální zpráva (Norman)
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | D. Graham (R) | Andrews (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| New York Times/Siena University | zveř. 28. 10.; Graham podle Political Wire vede o < 1 b. v nezaokrouhlených číslech | October 19–26, 2026 | 707 (LV) | ± 4.3% | 48% | 48% | 0% | 3% | +0 | [NYT toplines](https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html) | čísla na [SRI Siena](https://sri.siena.edu/2026/10/28/nytimes-siena-poll-of-likely-voters-florida-minnesota-and-south-carolina/); terén/n jen Wikipedia |
+| The Citadel | vlastní (Mark Owens); telefon + SMS; zveř. 27. 10. | October 14–25, 2026 | 890 (LV) | ± 3.4% | 43% | 39% | 2% (Hackett 1, Whitener 1) | 15% | -4 | [PDF](https://poll.citadel.edu/wp-content/uploads/2026/10/The-Citadel-Poll-Oct2026.pdf) | **primární PDF** |
+| The Citadel (RV verze) | týž průzkum | October 14–25, 2026 | 1,009 (RV) | ± 3.4% | 35% | 40% | 3% (Hackett 2, Whitener 1) + 2% nevolí | 20% | +5 | tamtéž | **primární PDF** |
+
+- Citadel Q12 s doplněním write-inu Normana (LV): Andrews 39, Graham 42, **Norman (write-in) 2**, nerozh. 14. Q16 (LV): „Napíšu Normana" 2 %, ne 86 %, nerozhodnuto 11 %. Citadel uvádí, že v trhu Greenville-Spartanburg (255 odpovědí) bylo po Trumpově projevu 21. 10. o 5 b. méně nerozhodnutých a Graham +5 (40→45 %).
+- Targoz 16.–25. 10. (už v souboru): Wikipedia nově uvádí objednatele **South Carolina Policy Council**.
+
+**Průměry (Wikipedia, 28. 10.):** 270toWin (zveř. 28. 9.–26. 10.) Graham 46,6 / Andrews 44,8 → **−1,8**; DDHQ (do 26. 10.) 45,4 / 44,0 → −1,4; RCP (28. 9.–26. 10.) 47,0 / 44,6 → **−2,4**.
+
+**Zprávy (materiální):**
+- **Ralph Norman (R, poražený v runoffu) oznámil, že nebude kampaňovat pro ani s Darline Graham**; Fox News Digital: volba je podle něj o „pokusech ‚vnutit' kandidátku voličům" („propped up by special interest groups and a Republican president"); jeho kampaň odmítla žádost Grahamina týmu o společné vystoupení ([Fox News](https://www.foxnews.com/politics/trump-accused-trying-force-senate-candidate-voters-gop-feud-erupts), 27. 10. — ověřeno na stránce; čas zveřejnění neověřen, může být těsně před oknem). FITSNews 27. 10.: Norman označil Graham za „fake" nominantku ([FITSNews](https://www.fitsnews.com/2026/10/27/ralph-norman-blasts-fake-gop-nominee-darline-graham/), jen titulek).
+- SC Public Radio 28. 10.: Norman v podcastu řekl, že jeho rodina Graham nepodpoří, on sám pro ni hlasovat bude; vyzývá voliče „vote their conscience". Občanská kampaň „Write In Ralph" (Avery Milton, WriteInRalph.com) běží, Norman se od ní distancuje (už 2. 9. jeho úřad uvedl, že nekandiduje jako write-in). V runoffu 25. 8. získal Norman 175 412 hlasů, 57 % z 12 okresů Upstate ([SCPR](https://www.southcarolinapublicradio.org/sc-news/2026-10-28/could-a-write-in-campaign-for-ralph-norman-really-derail-darline-graham), ověřeno na stránce). Pozn.: Norman není registrovaný write-in kandidát dle seznamu v `_us-2026-candidates.md` (ověřit pravidla započítání write-inů v SC — neověřeno).
+
+### us-sen-mn — Minnesota: 1 nový průzkum
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Flanagan (DFL) | Tafoya (R) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| New York Times/Siena University | zveř. 28. 10. | October 19–26, 2026 | 752 (LV) | ± 4.1% | 54% | 40% | 0% | 5% | **+14** | [NYT toplines](https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html) | čísla na [SRI Siena](https://sri.siena.edu/2026/10/28/nytimes-siena-poll-of-likely-voters-florida-minnesota-and-south-carolina/); terén/n jen Wikipedia |
+
+Fakticky: +14 leží mimo rozsah všech průzkumů v souboru od 1. 8. (max dosud GQR (D) +9; nestranické 0 až +5).
+
+**Průměry (Wikipedia, 28. 10.):** 270toWin (zveř. 1.–26. 10.) Flanagan 48,2 / Tafoya 42,2 → **+6,0**; DDHQ (do 26. 10.) 49,5 / 42,7 → +6,8; RCP (2.–26. 10.) 47,8 / 42,7 → **+5,1** (dříve +2,8).
+
+### us-sen-oh — Ohio: 1 nový průzkum
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Husted (R) | Brown (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Suffolk University | USA TODAY Network Ohio; zveř. 28. 10.; 17,2 % vzorku už hlasovalo | October 21–26, 2026 | 500 (LV) | ± 4.4% | 43.8% | 46.6% | 3.2% (Levy 1,6; Redpath 1,6) + 2.0% odmítlo | 4.4% | +3 (přesně +2,8) | [PDF](https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_28_2026_ohio_statewide_marginals.pdf) | **primární PDF** (Wikipedia uvádí Levy 2 / Redpath 2) |
+
+**Průměry (Wikipedia, 28. 10.):** 270toWin (zveř. 9.–26. 10.) Husted 44,8 / Brown 48,3 → **+3,5**; DDHQ (do 26. 10.) 44,5 / 47,9 → +3,4; RCP (22. 9.–26. 10.) 44,8 / 48,1 → **+3,3**.
+
+**Zprávy:** John Thune (vůdce většiny v Senátu) vedl 27. 10. večer v Limě akci s Hustedem, Ohio nazval „ground zero" ([Fox News](https://www.foxnews.com/politics/thune-calls-ohio-race-ground-zero-knife-fight-senate-rallying-husted), jen výtah vyhledávače). NPR 28. 10. o tématu datových center v Ohiu (Brown staví Husteda jako „the face of data centers") — kontext, nic nového.
+
+### us-sen-tx — Texas: 1 nový průzkum
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Paxton (R) | Talarico (D) | T. Brown (L) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov Blue (D) | pro 254 Labs; RV vážené na cíle LV; zveř. 28. 10. | October 21–26, 2026 | 1,000 (RV) | ± 4.6% | 43% | 51% | – | 2% | 5% | +8 | [254 Labs](https://254labs.io/news/2026-10-tx) | **primární web** |
+
+(Univision/YouGov 13.–21. 10., Talarico 50/Paxton 45, je už v souboru — zprávy ho uvádějí jako „zveřejněný v úterý 27. 10.".)
+
+**Průměry (Wikipedia, stav 27. 10. — od minulého sweepu beze změny):** 270toWin +2,9; DDHQ (do 21. 10.) 44,9 / 48,0 → +3,1; RCP (8.–19. 10.) 46,7 / 48,5 → +1,8.
+
+**Zprávy:** Trump měl v úterý 27. 10. mítinky pro Paxtona v Port of Corpus Christi a v Lubbocku; Talarico měl týž den mítink v Lubbocku ([WGXA/Sinclair](https://wgxa.tv/news/nation-world/trump-talarico-rally-voters-in-texas-senate-race-as-midterm-elections-approach), 28. 10., ověřeno na stránce). Předčasné hlasování do pá 30. 10.
+
+### Ostatní státy
+
+- **us-sen-ia — Iowa:** žádný nový průzkum na Wikipedii ani ve vyhledávání. Průměry (Wikipedia): 270toWin −0,8 (aktualizace 27. 10.), DDHQ −0,2 (27. 10.), RCP −0,6 (23. 10.). Zprávy: Hinson na autobusovém turné po Iowě v posledním týdnu (CBS2 Iowa, výtah); Turek s ex-senátorem Harkinem (Iowa Capital Dispatch 18. 10.). **Doplnění mimo okno (26. 10., v souboru chybí):** Turekův reklamní spot k transgender tématům vyvolal kritiku z obou stran ([Iowa Capital Dispatch](https://iowacapitaldispatch.com/2026/10/26/josh-turek-ad-on-transgender-issues-draws-bipartisan-criticism/), jen titulek — stránka 403).
+- **us-sen-ks — Kansas:** žádný nový průzkum. Průměry: DDHQ (do 23. 10.) 46,0 / 46,0 → 0 (dříve +0,4); 270toWin a RCP beze změny. Zprávy: **Trump má mítink v Salině (letiště) v sobotu 31. 10.** — druhá návštěva KS za < 2 týdny ([KSN](https://www.ksn.com/news/your-local-election-hq/trump-returns-to-kansas-as-marshall-hamilton-make-final-push-in-toss-up-senate-race/), jen výtah, stránka 403); Marshall viní Hamiltona z „rozkolu" v United Methodist Church ([KCUR](https://www.kcur.org/podcast/kansas-city-today/2026-10-28/hamilton-faces-attacks-on-faith-in-kansas-u-s-senate-race), 28. 10., titulek). Roll Call 28. 10. zmiňuje u Marshalla „scrutiny" kvůli žalobám jeho porodnické praxe na pacienty — jde o reportáž NYT ze **září 2026** (> 700 žalob, 81 zatčení; Trump Marshalla hájil), v souboru dosud chyběla, ale není nová.
+- **us-sen-mi — Michigan:** žádný nový průzkum (Glengariff 19.–22. 10. už v souboru). Průměry (28. 10.): 270toWin +3,6; DDHQ (do 23. 10.) 48,0 / 44,9 → +3,1; RCP (28. 9.–22. 10.) 48,1 / 45,6 → +2,5. Zprávy: CNN 28. 10. — El-Sayed s Haley Stevens nemluvil měsíce a společná kampaň se neplánuje ([CNN](https://www.cnn.com/2026/10/28/politics/abdul-el-sayed-michigan-senate-haley-stevens-mike-rogers), titulek); Reuters 28. 10. analýza útoků na El-Sayeda (kontext).
+- **us-sen-ne — Nebraska:** žádný nový průzkum (GBAO 18.–22. 10. už v souboru). Průměry beze změny (270toWin −2,0; DDHQ −0,7 k 27. 10.). Nic nového kromě Bloomberg 27. 10. (už v souboru).
+
+### Generic ballot a schválení Trumpa
+
+| Agentura | Terén | n | Generic D−R | Trump approve / disapprove | Zdroj | Ověření |
+|---|---|---|---|---|---|---|
+| Harvard CAPS / HarrisX | October 24–26, 2026 (zveř. 28. 10.) | 2 700 RV | D 52 – R 48 (dvoučlenně, s leanery) → **+4**; mezi LV také +4 | **39 %** approve (−3 b. proti září) | [HarrisX](https://www.harrisx.com/posts/october-harvard-caps-harrisx-poll) | primární web (disapprove nezjištěno) |
+
+- Průměry generic ballot na Wikipedii (aktualizace 27. 10.) beze změny: RCP +8,3, DDHQ +7,8, NBC +9,0, průměr +8,5. CNN Poll of Polls 28. 10.: D +9 (CNN, jen výtah).
+- Průměry schválení Trumpa na Wikipedii stále ke 22. 10. (beze změny proti souboru).
+- NPR/PBS/Marist (už v souboru jako 25. 10.): Marist web uvádí zveřejnění 27. 10., terén **19.–20. 10.**, 1 289 RV; LV 52:44; Trump LV 40/59, RV 38/61 ([Marist](https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/), ověřeno).
+
+### Ratingy (Cook / Sabato / Inside Elections)
+
+- **Žádná nová změna senátních ratingů od 27. 10. nenalezena.** Sabato 27. 10. (už v souboru) je poslední. Cook: poslední senátní změna 20. 10. (270toWin uvádí poslední aktualizaci 20. 10.).
+- **Upřesnění dat Inside Elections:** změny FL Solid R → Likely R, KS Likely R → Tilt R, SC Likely R → Lean R, TX Tilt R → Toss-up (a NH Toss-up → Tilt D) publikovány **20. 10.** ([Roll Call](https://rollcall.com/2026/10/20/rating-changes-democrats-inside-elections/), výtah vyhledávače); Inside Elections tehdy uváděl slovní projekci „zisk D 3 až 5 křesel". Web Inside Elections vrací 403 — neověřeno přímo.
+- Roll Call 28. 10. (žebříček nejohroženějších senátorů, ne rating): 1. Husted, 2. Collins, 3. Sullivan, 4. Marshall, 5. D. Graham, 6. Hyde-Smith, 7. Ricketts, 8. Ossoff ([Roll Call](https://rollcall.com/2026/10/28/most-vulnerable-senators-midterm-elections/), ověřeno).
+
+### Předčasné hlasování (jen počty)
+
+- **Texas (oficiálně SoS via Texas Tribune, 27. 10.):** první týden (19.–23. 10.) 4,5 mil. hlasů = 23,4 % registrovaných (2018: 24,3 %). Podle konzultanta Dereka Ryana mají voliči s historií D primárek 35 % předčasných hlasů vs. 33 % s historií R primárek ([Texas Tribune](https://www.texastribune.org/2026/10/27/texas-early-voting-2026-election/), ověřeno na stránce). Pozor: historie primárek ≠ hlas.
+- **Tracker onpointpolitics.us (stav 28. 10.; data státních a okresních úřadů přes civicAPI — sekundární):** celostátně 37 453 709 (mail 18,15 mil., osobně 19,30 mil.; ve státech s registrací D 42,3 % / R 32,1 % / ost. 25,6 %); **TX 5 535 929** (mail 226 205); **FL 3 752 040** (reg. D 38,9 % / R 40,3 %); **OH 1 292 227**; **MI 1 290 969** (jiný výtah téhož webu 1 392 170 — nesoulad); **SC 705 437**; IA/KS/MN/NE počty nezjištěny. Spectrum News 27. 10.: MI téměř 1,4 mil. Registrace ≠ hlas.
+
+### Sněmovna
+
+- Nic nového od 27. 10.: Cook (poslední hromadná změna pá 23. 10., 19 závodů k D; 218 D / 198 R / 17 toss-up — v souboru), Sabato 27. 10. (v souboru). CNN 28. 10. analytický text o možné „vlně" (bez nových dat).
+
+### research_limitation (doplněk)
+
+- NYT toplines (FL/SC/MN) za paywallem — terén, n a MoE převzaty z Wikipedie; čísla kandidátů ověřena na SRI Siena. Inside Elections, Cook, RCP weby nepřímo (403 / přes Wikipedii a 270toWin).
+- Sweep proběhl ~21:00 CET 28. 10.; průzkumy zveřejněné večer 28. 10. ET nemusí být zachyceny.

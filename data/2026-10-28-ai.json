@@ -1,0 +1,125 @@
+{
+ "date": "2026-10-28",
+ "series": "AI",
+ "races": {
+  "us-sen-fl": {
+   "race_id": "us-sen-fl",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-sen-fl-2026.md",
+   "dist": {
+    "Moody": 0.89,
+    "Nixon": 0.1,
+    "Someone_else": 0.01
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-ia": {
+   "race_id": "us-sen-ia",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-sen-ia-2026.md",
+   "dist": {
+    "Hinson": 0.69,
+    "Turek": 0.3,
+    "Someone_else": 0.01
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-sc": {
+   "race_id": "us-sen-sc",
+   "version": 2,
+   "file": "forecasts/2026-10-28-us-sen-sc-2026-v2.md",
+   "dist": {
+    "Graham": 0.67,
+    "Andrews": 0.32,
+    "Someone_else": 0.01
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-ks": {
+   "race_id": "us-sen-ks",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-sen-ks-2026.md",
+   "dist": {
+    "Marshall": 0.54,
+    "Hamilton": 0.455,
+    "Someone_else": 0.005
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-mi": {
+   "race_id": "us-sen-mi",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-sen-mi-2026.md",
+   "dist": {
+    "ElSayed": 0.67,
+    "Rogers": 0.325,
+    "Someone_else": 0.005
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-mn": {
+   "race_id": "us-sen-mn",
+   "version": 2,
+   "file": "forecasts/2026-10-28-us-sen-mn-2026-v2.md",
+   "dist": {
+    "Flanagan": 0.84,
+    "Tafoya": 0.155,
+    "Someone_else": 0.005
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-ne": {
+   "race_id": "us-sen-ne",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-sen-ne-2026.md",
+   "dist": {
+    "Ricketts": 0.72,
+    "Osborn": 0.275,
+    "Someone_else": 0.005
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-oh": {
+   "race_id": "us-sen-oh",
+   "version": 2,
+   "file": "forecasts/2026-10-28-us-sen-oh-2026-v2.md",
+   "dist": {
+    "Brown": 0.61,
+    "Husted": 0.385,
+    "Someone_else": 0.005
+   },
+   "contamination_risk": "possible"
+  },
+  "us-sen-tx": {
+   "race_id": "us-sen-tx",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-sen-tx-2026.md",
+   "dist": {
+    "Talarico": 0.578,
+    "Paxton": 0.419,
+    "Someone_else": 0.003
+   },
+   "contamination_risk": "possible"
+  },
+  "us-senate-control": {
+   "race_id": "us-senate-control",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-senate-control-2026.md",
+   "dist": {
+    "Democrats": 0.6,
+    "Republicans": 0.4
+   },
+   "contamination_risk": "possible"
+  },
+  "us-house-control": {
+   "race_id": "us-house-control",
+   "version": 1,
+   "file": "forecasts/2026-10-27-us-house-control-2026.md",
+   "dist": {
+    "Democrats": 0.85,
+    "Republicans": 0.15
+   },
+   "contamination_risk": "possible"
+  }
+ }
+}

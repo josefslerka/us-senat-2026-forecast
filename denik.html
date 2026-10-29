@@ -35,6 +35,34 @@ table.cards td{border:0;padding:3px 0;display:flex;justify-content:space-between
 table.cards td::before{content:attr(data-label);color:var(--muted);text-align:left}
 table.cards td.head{font-weight:600;font-size:17px}table.cards td.head::before{content:none}}
 </style></head><body><div class="wrap"><header><a class="brand" href="index.html">USA 2026 · Senát · forecast</a><nav><a href="index.html">Přehled</a><a href="pravidla.html">Pravidla</a><a href="denik.html">Deník</a></nav></header><h1>Deník</h1>
+<h2>St 28. 10. 2026: den 1, první update</h2>
+<h3>Co se stalo</h3><ul>
+<li>21:02–21:08 sweep zpráv a průzkumů od úterního večera. Nové průzkumy ve Floridě, Jižní Karolíně, Minnesotě, Ohiu a Texasu, nový celostátní průzkum (generic ballot) a v Jižní Karolíně spor uvnitř republikánů.</li>
+<li>Update jsme pustili u každé otázky, kde byl nový průzkum nebo fakt, tedy u sedmi (pět států a kontrola Senátu i Sněmovny). Změnu přijímáme, jen když se favorit pohne aspoň o 2 body. Iowa, Kansas, Michigan a Nebraska nic nového neměly.</li>
+<li>Zamčeno ve 21:24, model The Economist přečten ve 21:25. Časy podle commitů.</li></ul>
+<h3>Co se změnilo</h3><ul>
+<li><b>Minnesota</b> 77 → 84 % (Flanaganová). NYT/Siena +14 jsme nebrali jako nový průměr: dostal váhu zhruba jednoho průzkumu proti čtyřem říjnovým a srážku jako odlehlý výsledek.</li>
+<li><b>Jižní Karolína</b> 73 → 67 % (Graham). NYT/Siena 48 : 48, Citadel Graham +4 a odhad, že Normanova kampaň „napište Normana“ vezme Graham asi bod.</li>
+<li><b>Ohio</b> 63 → 61 % (Brown). Nový průzkum Suffolk sám nic nemění; posun dělají aktualizované průměry průzkumů. Hraniční případ (−2,05 bodu), skip by byl taky obhajitelný.</li>
+<li>Pod prahem: Florida −1,3, Texas +1,1, kontrola Senátu +1,8, Sněmovna −0,8 bodu.</li></ul>
+<h3>Co vidíme</h3><ul>
+<li><b>K sázkám:</b> Minnesota se přiblížila (rozdíl 14 → 7 bodů). <b>Od sázek:</b> Jižní Karolína (11 → 16) a Ohio (8 → 10). Celkově je AI opatrnější než sázky v 10 z 11 otázek.</li>
+<li><b>K modelu:</b> v Minnesotě se AI a The Economist shodují na 84 %. <b>Od modelu:</b> v Jižní Karolíně šel model opačným směrem (Graham 75 → 78 %), takže rozdíl je 11 bodů. Největší rozdíly zůstávají Nebraska (13 bodů) a Sněmovna (9). Do 2,5 bodu od modelu je AI v 5 z 11 otázek (včera 6).</li>
+<li><b>Jak AI počítá pravděpodobnost:</b> z odhadnutých podílů hlasů a nejistoty náskoku (normální rozdělení). Blízkost k modelu je proto čekaná, oba stojí na stejných průzkumech. Rozdíly vznikají hlavně v odhadu nejistoty a v tom, jak se váží jednotlivé agentury.</li></ul>
+<h3>Možné ovlivnění</h3><ul>
+<li>⚠ <b>Kurzy jsme dnes četli dřív než zprávy</b>: Tipsport ve 12:00, kvůli dotazu mimo experiment. Update proto vybíralo mechanické pravidlo (každá otázka s novým faktem), ne pohyby kurzů.</li>
+<li>Minnesota a Sněmovna: agenti ve výsledcích vyhledávání zahlédli titulky s cenou predikčního trhu. Neotevřeli je a do odhadu nevstoupily.</li></ul>
+<h3>Chyby a nápravy</h3><ul>
+<li><b>Večerní kurzy chybí.</b> <i>Příčina:</i> prohlížeč pro čtení kurzů se odpojil. <i>Náprava:</i> sloupec Sázky je pro den 1 polední Tipsport (Fortuna nečtena), označený výš. Od dne 2 zase po zámku.</li>
+<li><b>Zaměněný sloupec v tabulce přesnosti agentur</b> (Minnesota). Researcher vzal jako zkreslení NYT/Siena jiný sloupec, korekce by šla opačným směrem. <i>Náprava:</i> orchestrátor to opravil před odhadem; kontrolní přepočet dal 84,5 místo 84 %.</li>
+<li><b>Chybný přepočet v zadání</b> (kontrola Senátu). Agent dal updateru špatný koeficient, updater ho opravil. Se špatným by update hraničně prošel. <i>Náprava:</i> příště převzít koeficient z předchozí verze.</li>
+<li><b>Zdroje si odporují</b> v datech o předčasném hlasování ve Floridě (2022). Do odhadu nevstoupila, před dalším updatem ověříme.</li></ul>
+<h3>Nové zdroje dne</h3><ul>
+<li>NYT/Siena: <a href="https://sri.siena.edu/2026/10/28/nytimes-siena-poll-of-likely-voters-florida-minnesota-and-south-carolina/">Florida, Minnesota, Jižní Karolína</a></li>
+<li><a href="https://poll.citadel.edu/wp-content/uploads/2026/10/The-Citadel-Poll-Oct2026.pdf">The Citadel Poll</a> (Jižní Karolína) · <a href="https://www.southcarolinapublicradio.org/sc-news/2026-10-28/could-a-write-in-campaign-for-ralph-norman-really-derail-darline-graham">SCPR o kampani za Normana</a></li>
+<li><a href="https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_28_2026_ohio_statewide_marginals.pdf">Suffolk/USA Today, Ohio</a> · <a href="https://data.ddhq.io/polls/2026/10/28/St.-Pete-Polls-Florida">St. Pete Polls, Florida</a> · <a href="https://254labs.io/news/2026-10-tx">254 Labs/YouGov Blue, Texas</a></li>
+<li><a href="https://www.harrisx.com/posts/october-harvard-caps-harrisx-poll">Harvard CAPS/HarrisX</a> (generic ballot) · <a href="https://www.texastribune.org/2026/10/27/texas-early-voting-2026-election/">Texas Tribune, předčasné hlasování</a></li></ul>
+<h3>Co dál</h3><p>Den 2 (čt 29. 10.): zprávy → update → zámek → kurzy Tipsport a Fortuna a model. Freeze v pondělí 2. 11. ve 12:00.</p>
 <h2>Út 27. 10. 2026 večer: den 0, první předpovědi</h2>
 <h3>Co se stalo</h3><ul>
 <li>20:26 pravidla (předregistrace), 20:35 oficiální seznamy kandidátů, 20:43 sdílený soubor průzkumů, ratingů a přesnosti agentur. Časy podle commitů.</li>
