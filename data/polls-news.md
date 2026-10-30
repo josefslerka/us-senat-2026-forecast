@@ -1108,3 +1108,122 @@ Kandidáti: ME Collins (R, úřadující) × Troy Jackson (D; RCV); AK Dan S. Su
 - CNN (451), WFAA (403), Inside Elections (403), RCP, stránka MSU (prázdná) — čísla z Wikipedie / Political Wire / výtahů. NYT 28. 10. za paywallem — obsah z NBC, CBS, Juneau Independent a Wikipedie.
 - Rios „retracted all statements" jen u NBC; nová reakce Dana J. Sullivana Jr. nedohledána.
 - Zrušení Trumpovy akce v KS a Paxtonovy rally jen přes Political Wire (Washington Sun, KFOX).
+
+---
+
+## Doplněk 30. 10. 2026 (sweep 17:27–17:38 CET, okno od 29. 10. 22:45 CET)
+
+Zdroje: Wikipedia raw wikitext stažený 30. 10. ~17:28 CET (jen tabulky průzkumů a průměrů průzkumů; sekce „Predictions“ před zpracováním strojově odstraněna, nic z ní nevytaženo); 270toWin stránky průzkumů (staženo 30. 10. ~17:33 CET, datum = zveřejnění); primární weby dle sloupce Ověření; Political Wire (30. 10.) jako rozcestník. Marže = D − R (NE: Osborn − Ricketts). RCP, Cook, Sabato, Washington Post, KSN, KAKE, FL DOS (WebFetch) → 403/451; FL DOS staženo přes curl.
+
+### us-sen-fl — Florida: 1 nový průzkum [OBJEDNAL KANDIDÁT/STRANA]; Trump dnes v Daytona Beach
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Moody (R) | Nixon (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Workbench Strategy (D) | **[OBJEDNAL KANDIDÁT/STRANA]** „commissioned by Nixon's campaign“; zveř. 30. 10. (Politico Florida Playbook) | October 18–22, 2026 | 800 (LV) | ± 3.5% | 49% | 47% | – | – | **−2** | [Politico FL Playbook](https://www.politico.com/newsletters/florida-playbook/2026/10/30/gop-closing-message-keep-florida-great-01142052) | **jen sekundární** (Wikipedia; Politico za paywallem) |
+
+- Fakticky: −2 uvnitř rozpětí souboru (−11 až 0); starý terén (18.–22. 10.).
+- Průměry: 270toWin web (30. 10., 6 průzkumů) Moody 50,0 / Nixon 44,0 → −6,0 (beze změny); Wikipedia RCP −6,2 / DDHQ −6,5 (stále 28. 10.).
+- Zprávy: **Trump má v pátek 30. 10. mítink v Daytona Beach** (Fox News live blog 30. 10. [odkaz](https://foxnews.com/live-news/4-days-to-go-battle-for-control-of-congress-intensifies-as-midterms-reach-their-final-stretch-october-30); WDBO titulek „President Trump to hold rally in Daytona Beach days before Election Day“ — stránka 451; **jen sekundární**, účast Moody neověřena). Odpovídá dřívější zprávě Hoodline o pátečním příjezdu do FL.
+
+### us-sen-ia — Iowa: žádný nový průzkum; **Trumpův mítink zrušen a obnoven (ne 1. 11., Cedar Rapids)**
+
+- **Trump 29. 10. zrušil i nedělní mítink v Dubuque (Five Flags Center, 1. 11.)** — v souboru dosud chybělo; RNC: místo toho tele-rallies „to reach more voters“. **30. 10. obnoven: neděle 1. 11. v Cedar Rapids** (čas a místo zatím neoznámeny); město Dubuque potvrdilo, že na původním místě se nic nekoná ([KCRG](https://www.kcrg.com/2026/10/30/trump-revives-iowa-rally-after-canceling-weekend-trip/), 30. 10., **ověřeno na stránce**; AP via [US News](https://www.usnews.com/news/politics/articles/2026-10-30/trump-will-rally-in-kansas-and-iowa-after-initially-canceling-weekend-trips-before-midterms), titulek).
+- Průzkumy: žádný nový (Wikipedia, 270toWin, vyhledávání). Iowa Poll Des Moines Register (dříve Selzer) pro 2026 nedohledán. Průměry beze změny: 270toWin −0,6; DDHQ −1,0; RCP −0,5 (Wikipedia 29. 10.).
+- Pozn.: výtah vyhledávače o „Suffolk 26. 10. Iowa Turek 45 / Hinson 43“ se nepotvrdil (jde o záměnu s CNN/SSRS 29. 9.–5. 10.) — nepoužívat.
+
+### us-sen-sc — Jižní Karolína: žádný nový průzkum; doplnění k Trumpovu mítinku 29. 10. a Normanovi
+
+- **Doplnění (mimo okno, v souboru chybělo): Trump měl ve čt 29. 10. dopoledne mítink pro D. Graham v Rock Hill** (York County, domovský okres Ralpha Normana; druhý SC mítink za 8 dní, po Pendletonu 21. 10.). Norman se nezúčastnil (jeho úřad: pracuje ve Washingtonu a „isn't paying too much attention“). **Normanův syn Warren podpořil Andrews** ([SCPR](https://www.southcarolinapublicradio.org/sc-news/2026-10-29/in-rock-hill-a-trump-rally-for-graham-is-more-about-trump), 29. 10., **ověřeno na stránce**; datum podpory syna neověřeno). Trump podle CBS live blogu: „pretend that I'm on the ballot“ ([CBS](https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/), sekundární).
+- Průměry (Wikipedia 29. 10.): **270toWin (zveř. 16.–26. 10.) Graham 47,6 / Andrews 45,2 → −2,4** (web 30. 10. totéž; dříve −1,8); **DDHQ (do 26. 10.) 46,4 / 44,7 → −1,7**; **RCP (28. 9.–26. 10.) 47,7 / 45,0 → −2,7**.
+
+### us-sen-ks — Kansas: 2 nové průzkumy; Trumpova akce zrušena a obnovena
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Marshall (R) | Hamilton (D) | D. Graham (L) | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Emerson College | vlastní; zveř. 30. 10. | October 26–28, 2026 | 800 (LV) | ± 3.5% | 45% | 49% | 3% | 3% | **+4** | [Emerson](https://emersoncollegepolling.com/october-2026-kansas-poll-hamilton-maintains-edge-over-marshall/) | **primární web** |
+| — tentýž, s leanery | | | | | 47% | 50% | 3% | – | +3 | tamtéž | **primární web** |
+| The Washington Post/Schar School (SSPG) | zveř. 30. 10.; WaPo uvádí, že demokraté odpovídali zhruba **2× ochotněji** než republikáni | October 22–26, 2026 | 801 (LV) | ± 3.9% | 43% | 52% | 4% | – | **+9** | [WaPo](https://www.washingtonpost.com/politics/2026/10/30/we-polled-kansas-democrats-wanted-talk-republicans-not-so-much/) | **jen sekundární** (WaPo 403; čísla shodně Wikipedia, Political Wire, Fox live blog, 270toWin) |
+
+- Emerson (primární): nezávislí Hamilton 59 / Marshall 25; **již hlasovavší Hamilton 66 / Marshall 32; ještě nehlasovavší Marshall 48 / Hamilton 45**; Trump v KS 45 % schvaluje / 51 % neschvaluje; guvernér Masterson (R) 50 / Holscher (D) 46.
+- Fakticky: **WaPo +9 leží mimo rozpětí všech průzkumů v souboru** (dosud max nestranické +4 CNN/SSRS, objednané max GBAO +5). Emerson +4 = horní hrana nestranických (CNN +4); Emerson předtím +2 (15.–16. 9.).
+- Průměry: **270toWin web (30. 10., 5 průzkumů) Hamilton 49,0 / Marshall 45,2 → +3,8**; Wikipedia 30. 10.: **270toWin (zveř. 24. 9.–26. 10.) 45,0 / 48,0 → +3,0**; **DDHQ (do 28. 10.) 45,4 / 48,3 → +2,9** (dříve +1,3); **RCP (22. 9.–28. 10.) 45,7 / 48,3 → +2,6** (dříve +0,2).
+- **Zprávy (materiální):** viz samostatná sekce „Ověření KS“ níže — zrušení sobotní akce v Salině potvrzeno kansaskými médii, **30. 10. akce obnovena na neděli 1. 11. 14:00, Salina Regional Airport**.
+
+### Ověření KS (úkol 2)
+
+- **Zrušení sobotní akce (31. 10., Salina): POTVRZENO PRIMÁRNĚ (kansaská média s přímými citacemi).** [KCUR](https://www.kcur.org/politics-elections-and-government/2026-10-29/trump-cancels-kansas-rally-salina) (29. 10., ověřeno na stránce): Salina Regional Airport obdrželo ve čt zprávu, že všechny sobotní aktivity jsou zrušeny; zrušení potvrdila **Kansas Republican Party**; mluvčí Bílého domu: Trump bude „connecting directly with Americans nationwide through more than 20 telerallies“. Newsweek: zrušení potvrdila předsedkyně KS GOP **Danedri Herbert**, plán byl so 10:30 v hangáru letiště, důvod „scheduling conflict“. Originál Washington Sun (via [Political Wire](https://politicalwire.com/2026/10/29/trump-scraps-a-weekend-trip-to-kansas/) 29. 10. 13:59 ET) = [washingtonsun.com/campaigns/trump-scraps-trip-to-kansas](https://www.washingtonsun.com/campaigns/trump-scraps-trip-to-kansas) (neotevřen). Dále KSN, KCTV5, WIBW, KAKE (titulky: „President Trump cancels rally at Salina Regional Airport, to host ‚tele-rally‘ instead“).
+- Trump novinářům: Marshall „doing very well“ (CBS live blog 29. 10. 18:32 ET; Mediaite titulek) — **jen sekundární**.
+- **NOVÉ 30. 10.: akce obnovena — neděle 1. 11. 14:00, Salina Regional Airport** (RNC + Salina Airport Authority, [KWCH](https://www.kwch.com/2026/10/30/sources-trump-will-rally-kansas-iowa-sunday-after-initially-canceling-trips-before-midterms/) 30. 10. 9:18 CDT, **ověřeno na stránce**; AP: Bílý dům změnu přičítá rozvrhu kolem ~20 tele-rallies; Political Wire „Trump Resurrects Canceled Rallies in Iowa and Kansas“).
+- **Příspěvek „Radical Left LUNATIC“: datum = pondělí 12. 10. 2026** (Sinclair [WJLA](https://wjla.com/news/nation-world/president-trump-turns-attention-to-tight-senate-race-in-ruby-red-kansas-democrat-adam-hamilton-republican-roger-marshall-2026-midterm-elections), článek publikován út 13. 10. 2026: „attacked … in a lengthy Truth Social post on Monday“; citace: „a Radical Left LUNATIC Dumocrat, whose values are not those of the People of Kansas…“) — ověřeno na stránce Sinclairu, samotný příspěvek na Truth Social neotevřen. **Není to nová zpráva** (> 2 týdny stará).
+
+### us-sen-mi — Michigan: žádný nový průzkum
+
+- Průměry: **270toWin web (30. 10., 5 průzkumů) El-Sayed 49,8 / Rogers 44,0 → +5,8** (dříve +4,6; nově započteny MSU/Verasight a CNN); Wikipedia 29. 10.: DDHQ (do 28. 10.) 48,9 / 44,4 → +4,5; RCP +3,2 (beze změny).
+- Zprávy (sekundární): Sen. Tim Scott (předseda NRSC) jede do MI vést kampaň proti El-Sayedovi (Fox News live blog, 30. 10.). Nic materiálního.
+
+### us-sen-mn — Minnesota: nic nového
+
+- Žádný nový průzkum; průměry beze změny (270toWin +6,0; DDHQ +6,8; RCP +5,1).
+
+### us-sen-ne — Nebraska: nic nového
+
+- Žádný nový průzkum; průměry beze změny (270toWin −2,0; DDHQ −0,7). Zprávy: nová vnější skupina utrácí „six figures“ na konzervativní kritiku Osborna (výtah vyhledávače, bez data; Omaha World-Herald: skupiny používají méně známá jména k podpoře obou kandidátů — titulek). Nic materiálního.
+
+### us-sen-oh — Ohio: nic nového
+
+- Žádný nový průzkum (270toWin poslední Suffolk 28. 10.); průměry beze změny (270toWin +3,5; DDHQ +3,2; RCP +3,3). Zprávy: Husted připustil, že někteří Ohiané trpí obchodním sporem s Kanadou, ale hájí Trumpovu obchodní politiku (Fox live blog 30. 10.). Nic materiálního.
+
+### us-sen-tx — Texas: 1 nový průzkum
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Paxton (R) | Talarico (D) | T. Brown (L) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Quantus Insights | vlastní; zveř. 30. 10. („Texas Survey: Paxton Up One, Abbott Ahead by Five“) | October 26–28, 2026 | 1,221 (LV) | ± 3.2% | 49% | 48% | 1% | – | 2% | **−1** | [Quantus](https://quantusinsights.org/polling/f/texas-survey-paxton-up-one-abbott-ahead-by-five) | **jen sekundární** (Wikipedia + 270toWin; stránka Quantus se načetla bez obsahu) |
+
+- Fakticky: −1 uvnitř rozpětí souboru (−3 až +8); Quantus dříve 0 (9.–11. 10.).
+- Průměry: **270toWin web (30. 10., 8 průzkumů) Talarico 49,6 / Paxton 46,4 → +3,2**; Wikipedia 30. 10.: **DDHQ (do 28. 10.) 45,5 / 49,2 → +3,7** (dříve +4,3); **RCP (8.–28. 10.) 47,0 / 48,8 → +1,8** (dříve +2,1); Texas Tribune (do 27. 10.) 46,1 / 49,0 → +2,9.
+- Zprávy: závěrečné apely (Spectrum News 30. 10.); Fox News 30. 10.: MAGA Inc. utratil 33,7 mil. USD na reklamy pro Paxtona, vnější R skupiny > 200 mil. USD (z velké části E. Musk) — jen sekundární, neověřeno. Ch. Sununu (NewsNation, čt večer) „předpověděl“ Paxtonovu prohru — komentář, ne fakt. Předčasné hlasování končí dnes 30. 10.
+
+### Ostatní senátní závody (pro kontrolu Senátu)
+
+**Aljaška — vývoj šetření („decoy Dan“):**
+- **DOJ: nejméně ~3 tucty nových předvolání / žádostí o zajištění dokumentů** vůči kampaním Peltoly a Dana J. Sullivana (NBC, Newsweek, Daily Caller 30. 10.; už v souboru z 29. 10. — potvrzeno znovu, nic nového co do počtu). CBS (30. 10. 1:03 EDT, [odkaz](https://www.cbsnews.com/news/peltola-she-knew-nothing-dan-sullivan-ballot-controversy-alaska-senate-race/), ověřeno na stránce): Peltola ve čt večer: „I knew nothing about any other candidates on the ballot except for me and the incumbent… I am not interested in tricking voters. I know I can beat Dan Sullivan.“; Dan J. Sullivan nadále popírá, že je „sham candidate“.
+- **Dunleavy:** kauza „may, in fact, impact whether somebody is seated in the U.S. Senate“ (CBS live blog, sekundární). **Comer** (House Oversight) žádá přepsané rozhovory s Rios a Kurtzem (čt 29. 10.). **Schumer** popřel jakékoli zapojení ([Political Wire](https://politicalwire.com/) 30. 10., sekundární).
+- Fox live blog 30. 10.: Peltola čelí kritice kvůli „resurfaced quote about misleading voters“ — obsah citátu nedohledán (sekundární).
+- Průzkumy: **žádné nové** (270toWin poslední DfP zveř. 20. 10.; Wikipedia poslední Rasmussen 12.–15. 10.). Průměry beze změny.
+
+**Další závody:**
+- **ME:** žádný nový průzkum (270toWin +2,6 beze změny). Guvernérka **Janet Mills oznámila, že volila Troye Jacksona** (CBS live blog 29.–30. 10., sekundární).
+- **NH:** debata Pappas × Sununu (oba inflace/ekonomika; CBS live blog, datum neověřeno). Žádný nový průzkum.
+- **NC:** v tabulkách nově (zveř. 28. 10., mimo okno, v souboru chybělo): **High Point University/YouGov, 1.–20. 10., 620 LV, ±4,7: Whatley 40 / Cooper 54 → +14** (jen Wikipedia/270toWin). 270toWin web 30. 10.: Cooper 53,2 / Whatley 41,6 → +11,6. Trump v Rock Hill o Whatleym: „Whatley should win… But, what are you going to do?“ (CBS live blog, sekundární).
+- **GA, MS:** nic nového (žádné nové průzkumy).
+
+### Generic ballot a schválení Trumpa
+
+| Agentura | Terén | n | Generic D−R | Trump schvaluje / neschvaluje | Zdroj | Ověření |
+|---|---|---|---|---|---|---|
+| Emerson College (národní) | October 24–26, 2026 (zveř. 30. 10.) | 1 000 LV, ±3 | D 52 – R 42 → **+10** (nerozh. ~5) | **37 / 57** | [Emerson](https://emersoncollegepolling.com/october-2026-national-poll-democrats-hold-10-point-midterm-advantage/) | **primární web** |
+
+- **Průměry generic ballot (Wikipedia, aktualizace 29. 10.):** RCP (8.–26. 10.) 43,2 / 51,4 → **+8,2**; DDHQ 41,8 / 51,2 → **+9,4** (dříve +7,8); NBC +9,0; průměr řádku **+8,9** (dříve +8,5).
+- **Průměry schválení (Wikipedia, aktualizace 29. 10.; dříve 22. 10.):** RCP 38,4 / 60,1; DDHQ 38,3 / 59,6; NBC 38 / 60; Ballotpedia 38 / 60; NYT 37 / 60; FiftyPlusOne 35,2 / 61,7; Economist 34 / 61; CNN poll of polls 34 / 64; **průměr 36,7 / 60,7 (−24,0)** (dříve 36,2 / 61,3).
+- V tabulce jednotlivých průzkumů na Wikipedii od minulého sweepu nic nového (poslední Harvard/Harris 24.–26. 10.).
+
+### Ratingy (Cook / Sabato / Inside Elections)
+
+- **Žádná nová změna senátních ani sněmovních ratingů od 29. 10. večer nenalezena.** 270toWin (staženo 30. 10.): Cook senátní ratingy „As of October 20“, Sabato „As of October 27“ — beze změny. Inside Elections: poslední 29. 10. (už v souboru). Weby Cook/Sabato/IE → 403.
+
+### Předčasné hlasování (jen počty)
+
+- **Florida — oficiálně FL DOS, „compiled 10/30/2026 8:08 AM“** (kumulativně do 29. 10.; [FL DOS](https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats), staženo přímo): mail R 622 664 / D 762 012 / ost. 43 181 / NPA 341 393 = 1 769 250; osobně předčasně R 1 102 078 / D 886 053 / ost. 63 773 / NPA 452 880 = 2 504 784. **Celkem 4 274 034; R 1 724 742 (40,35 %) vs D 1 648 065 (38,56 %) → registrovaní R +76 677** (den předtím R +51 296; 2022 ke srovnatelnému bodu R +176 895 — viz Doplněk 29. 10.). Nevrácené mail: R 225 778 / D 266 649 / celkem 673 998. Registrace ≠ hlas.
+- **Texas:** předčasné hlasování končí dnes 30. 10.; oficiální data SoS nedostupná (sos.state.tx.us 403). Výtahy vyhledávače s čísly „9,0 mil. do čtvrtka / 9,7 mil. celkem, 57 %“ jsou **z roku 2020** (srovnání s 2016) — nepoužívat.
+- Ostatní státy: nové oficiální počty nedohledány.
+
+### Sněmovna
+
+- Nic nového: Cook (poslední hromadná změna 23. 10.), Sabato (27. 10.), IE (29. 10.) — beze změny. Political Wire 30. 10.: NY-21 (bývalé křeslo Stefanikové) se stává soutěžním (demokrat Blake Gendebien) — jen sekundární, bez ratingu.
+
+### research_limitation (doplněk)
+
+- Washington Post (KS průzkum), Politico FL Playbook (Workbench), Quantus (TX) — primární stránky nedostupné nebo bez obsahu; čísla shodně z Wikipedie + 270toWin (+ PW/Fox u WaPo).
+- KSN, KAKE, WDBO 403/451; Cook, Sabato, IE, RCP 403 → ratingy jen přes 270toWin a vyhledávání.
+- Texas SoS 403 — konečná čísla předčasného hlasování nezjištěna.
+- Sweep proběhl ~11:30 ET 30. 10.; průzkumy zveřejněné odpoledne/večer 30. 10. ET (typicky poslední pátek) nejsou zachyceny — doporučen další sweep.
