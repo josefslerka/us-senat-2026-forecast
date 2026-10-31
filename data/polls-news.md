@@ -1227,3 +1227,142 @@ Zdroje: Wikipedia raw wikitext stažený 30. 10. ~17:28 CET (jen tabulky průzku
 - KSN, KAKE, WDBO 403/451; Cook, Sabato, IE, RCP 403 → ratingy jen přes 270toWin a vyhledávání.
 - Texas SoS 403 — konečná čísla předčasného hlasování nezjištěna.
 - Sweep proběhl ~11:30 ET 30. 10.; průzkumy zveřejněné odpoledne/večer 30. 10. ET (typicky poslední pátek) nejsou zachyceny — doporučen další sweep.
+
+## Doplněk 31. 10. 2026 (sweep 15:10–15:21 CET, okno od 30. 10. 17:25 CET)
+
+Zdroje: Wikipedia raw wikitext stažený 31. 10. ~15:11 CET (jen tabulky průzkumů a průměrů průzkumů; sekce „Predictions“/„Election ratings“ strojově odstraněny nebo nečteny, nic z nich nevytaženo); 270toWin stránky průzkumů (staženo 31. 10. ~15:13 CET, datum = zveřejnění; widget trhu na stránce ignorován); primární weby dle sloupce Ověření; Political Wire (30.–31. 10.) jako rozcestník. Marže = D − R (NE: Osborn − Ricketts). NYT, WaPo (vč. PDF toplinu), Cook web, KWWL, Gazette, OurQuadCities → 403/451; FL DOS staženo přes curl.
+
+### us-sen-fl — Florida: 1 nový průzkum; Cook posunul na Likely R; Trump v Daytona Beach s Moody
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Moody (R) | Nixon (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| InsiderAdvantage (R) | vlastní; zveř. 30. 10.; mixed mode text/panel | October 28–29, 2026 | 1,200 (LV) | ± 2.83% | 49% | 43% | 2% | 6% | **−6** | [InsiderAdvantage](https://insideradvantage.com/insideradvantage-florida-survey-donalds-49-jolly-45-moody-49-nixon-43/) | **primární web** |
+
+- Fakticky: −6 = střed rozpětí souboru (−11 až 0); InsiderAdvantage dříve −7 (20.–21. 9.).
+- Průměry: 270toWin web (31. 10., 5 průzkumů) Moody 50,4 / Nixon 44,4 → −6,0 (beze změny); Wikipedia DDHQ −6,5 / RCP −6,3 (stále 28. 10.).
+- **Rating: Cook 30. 10. Florida Solid R → Likely R** (první změna od února 2025) — [Cook Substack 30. 10.](https://thecookpoliticalreport.substack.com/p/two-senate-and-a-dozen-house-moves), **primární web**.
+- **Trumpův mítink v Daytona Beach (Ocean Center) se konal v pá 30. 10. večer; Moody vystoupila před Trumpem** (Newsweek, **jen sekundární**; článek chybně uvádí „Friday, October 31“). Mediaite: Moody žertovala, zda má být „upset“, že Trump pochválil Nicki Minaj a ne ji (via Political Wire 31. 10.) — bez věcného významu.
+
+### us-sen-ia — Iowa: žádný nový průzkum; **Trumpův nedělní mítink zpět v Dubuque (ne Cedar Rapids)**; úkol 2a ověřen
+
+- **Mítink ne 1. 11.: po zprávách o Cedar Rapids (30. 10. dopoledne) kampaň v pátek potvrdila Dubuque, Five Flags Center** — dveře 10:30, začátek 12:30, Trump mluví ve 14:00 (CT) ([KCRG](https://www.kcrg.com/2026/10/31/dubuque-county-republicans-democrats-react-trumps-rally/), publ. 30. 10. 22:13 CDT, aktualizováno 31. 10., **ověřeno na stránce**; titulek KWWL „Trump rally changes again, now back on in Dubuque Sunday afternoon“; WSJ via Political Wire 31. 10.: v so tele-rallies, v ne osobně Kansas a Iowa). Účast Hinson v článku neuvedena. **Oprava Doplňku 30. 10.: Cedar Rapids už neplatí.**
+- WaPo 30. 10. (via Political Wire, **jen sekundární**): Hinson, která slibovala být Trumpovým nejsilnějším spojencem, nyní slibuje být „a thorn in his side if he's wrong for our state“.
+- Průzkumy: žádný nový (Wikipedia, 270toWin). **Iowa Poll Des Moines Registeru pro 2026 nedohledán** (Selzer po 2024 volební průzkumy ukončila; nástupnický Iowa Poll s čísly Hinson/Turek nenalezen). Průměry beze změny (Wikipedia 29. 10.: 270toWin −0,6; DDHQ −1,0; RCP −0,5).
+- **Úkol 2a — Echelon Insights „Turek +2“: POTVRZENO PRIMÁRNĚ.** [NetChoice](https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/) (zveř. 27. 10.; Echelon Insights (R) pro NetChoice): terén **16.–23. 10. 2026**, Iowa **n = 403 (LV)**, **MoE ± 6,5**: **Turek 45 / Hinson 43 / Laehn (L) 7 / nerozh. 3 → +2**; [topline PDF](https://netchoice.org/wp-content/uploads/2026/10/NetChoice-October-2026-Antitrust-Tech-Survey-Topline.pdf). Řádek v souboru (sekce Iowa) je tedy správný. Tentýž průzkum (stejná stránka): OH Husted 47 / Brown 47; NE Ricketts 47 / Osborn 46; FL Moody 51 / Nixon 43; GA Ossoff 55 / Collins 40; ME Jackson 51 / Collins 44 — vše shodné se souborem.
+
+### us-sen-sc — Jižní Karolína: 1 nový průzkum (D agentura)
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Graham (R) | Andrews (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Patinkin Research Strategies (D) | objednatel v PDF neuveden; dotazník obsahuje sadu sdělení (message testing) → zacházet jako se stranickým; zveř. 29.–30. 10. (PDF „103026“) | October 27–29, 2026 | 500 (LV) | ± 4.4% | 43% | 48% | 8% (Hackett (C) 3, Whitener (L) 3, někdo jiný 2) | 0% | **+5** | [PDF](https://static1.squarespace.com/static/54512d3ce4b07de69d8320c7/t/6ae4c78764ecea053693b5e4/1793378183635/PRS.SCStatewidePoll.Toplines.103026.pdf) | **primární PDF** |
+
+- Z PDF: již hlasovalo **50 %** vzorku; oblíbenost Trump 46 / 52, Andrews 49 / 42, D. Graham 34 / 58. Dotazník se ptá na „incidence of violence at President Trump's recent rally for Darline Graham at Clemson University“ (44 % o ní slyšelo) — samotná událost v souboru dosud není a zde **neověřena**.
+- Fakticky: +5 = horní hrana souboru (dosud max +5 Citadel RV verze; objednané Andrews do +4). D agentura bez uvedeného objednatele.
+- Průměry (Wikipedia 30. 10.): **DDHQ (do 29. 10.) Graham 45,7 / Andrews 45,6 → −0,1** (dříve −1,7); 270toWin −2,4 a RCP −2,7 beze změny. 270toWin web (31. 10.) 47,6 / 45,2 → −2,4.
+
+### us-sen-ks — Kansas: žádný nový průzkum; nedělní mítink v Salině potvrzen; úkol 2b
+
+- **Trump: ne 1. 11., hangár Salina Regional Airport** (potvrzeno Bílým domem „Sunday in Salina and then in Cedar Rapids“ — Iowa mezitím přesunuta do Dubuque, viz výše). Časy se v médiích liší: Salina311 titulek „start at 4:30 p.m.“, text dveře 15:30 / Trump 19:00; dřívější KWCH 14:00 ([Salina311](https://www.salina311.com/stories/2026-10-30-breaking-reports-say-trumps-salina-visit-is-back-on-for-sunday/), 30. 10., **ověřeno na stránce**; [GOP events](https://events.gop.com/events/midterm-rally-in-ks-president-donald-j-trump-djt47-salina-ks) — výtah). Pořadí: Salina až po Dubuque (odpoledne/večer).
+- Průměry beze změny (Wikipedia 30. 10.: 270toWin +3,8 web / +3,0 tabulka; DDHQ +2,9; RCP +2,6).
+- **Úkol 2b — WaPo/Schar KS (43/52, 22.–26. 10.): primárně NEOVĚŘENO.** washingtonpost.com článek i odkazovaný topline PDF ([washingtonpost.com/documents/91bad124-…pdf](https://www.washingtonpost.com/documents/91bad124-1d3a-437b-b1ba-07af61cb729d.pdf), citovaný Wikipedií) → 403; schar.gmu.edu/news uvádí v říjnu jen tiskové zprávy k Maine a arabským Američanům, Kansas ne. Čísla shodně: Wikipedia (801 LV, ± 3,9; Marshall 43 / Hamilton 52 / Graham 4 / nevolí 1; s leanery 44 / 54), 270toWin („Wash. Post-Schar School“, zveř. 30. 10., 801 LV ± 3,9, 52/43), Political Wire, Fox. Zůstává **jen sekundární** (konzistentní ve 4 nezávislých přepisech).
+
+### us-sen-mi — Michigan: 2 nové průzkumy; spor El-Sayed × Stevens
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Rogers (R) | El-Sayed (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Rasmussen Reports (R) | vlastní; terén Pulse Opinion Research; zveř. pá 30. 10. | October 28–29, 2026 | 745 (LV) | ± 3% | 44% | 49% | 3% (Christensen (L) 2, Long (UST) 1) | 4% | **+5** | [Rasmussen](https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_michigan_senate) | **primární web** |
+| Data for Progress (D) | vlastní (DfP; společné vydání ME/MI/TX); zveř. 30. 10. 22:11 ET | October 23–27, 2026 | 622 (LV) | ± 4% | 46% | 50% | ≤ 1% každý | – | **+4** | [DfP](https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas) | **primární web** (n a MoE z 270toWin / Political Wire) |
+
+- Fakticky: oba uvnitř rozpětí souboru; Rasmussen dříve +2 (12.–14. 10.). DfP guvernér: Benson 52 / James 43.
+- Průměry: **270toWin web (31. 10., 6 průzkumů) El-Sayed 49,8 / Rogers 44,3 → +5,5** (dříve +5,8); Wikipedia 30. 10.: **DDHQ (do 29. 10.) 49,0 / 44,3 → +4,7**; **RCP (28. 9.–29. 10.) 49,1 / 45,6 → +3,5** (dříve +3,2).
+- Zprávy: **Kampaň El-Sayeda žádá Haley Stevens, aby nechodila na žádné další akce kampaně** (Politico 30. 10. via [Political Wire](https://politicalwire.com/2026/10/30/) 23:26 ET, **jen sekundární**) — „Michigan's Democratic coalition is fragmenting“ (Politico).
+
+### us-sen-mn — Minnesota: 1 nový průzkum; Sabato posun
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Tafoya (R) | Flanagan (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SurveyUSA | pro KSTP-TV („final poll before Election Day“); zveř. 30. 10. (PW 18:32 ET) | October 24–28, 2026 | 714 (LV) | ± 4.2% | 41% | 48% | 4% (Whiting (L) 2, Simonetti (I) 2) | 7% | **+7** | [KSTP](https://kstp.com/kstp-news/top-news/kstp-surveyusa-minnesota-statewide-races-inch-left-in-final-poll-before-election-day/) | **ověřeno na stránce** (čísla, MoE; terén a n z Wikipedie) |
+
+- Fakticky: KSTP/SurveyUSA dříve 0 (9.–14. 9.) a +3 (předchozí vlna podle KSTP); guvernér Klobuchar 51 / Demuth 39.
+- Průměry: Wikipedia beze změny (28. 10.: DDHQ +6,8; RCP +5,1); 270toWin web +6,0 (SurveyUSA zatím nezapočten).
+- **Rating: Sabato 30. 10. Minnesota Leans D → Likely D** ([Crystal Ball](https://sabatoscrystalball.substack.com/p/a-rating-change-appetizer-senate), **primární web**).
+
+### us-sen-ne — Nebraska: **NYT/Siena Ricketts +6**; Cook posunul na Lean R
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Ricketts (R) | Osborn (I) | Jiní | Nerozh. | Marže Osborn − Ricketts | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| The New York Times/Siena | zveř. so 31. 10. ráno ET | October 23–29, 2026 | 809 (LV) | ± 4.0% (Wikipedia) / ± 4.2 (The Hill) | 49% | 43% | 0% | 8% | **−6** | [SRI Siena](https://sri.siena.edu/2026/10/31/nytimes-siena-poll-of-likely-nebraska-voters/) | **primární web** (čísla); terén/n/MoE z Wikipedie a The Hill (NYT 403) |
+
+- Siena: guvernér Pillen 53 / Walz 40; House generic R 54 / D 35. The Hill: **55 % voličů vidí Osborna jako bližšího demokratům**, 4 % republikánům, asi třetina jako nezávislého (**jen sekundární**).
+- Pozor: **270toWin uvádí tentýž průzkum jako Osborn 41 / Ricketts 46** (jiná varianta otázky? nevyjasněno) — Siena, Wikipedia, Political Wire a The Hill shodně 49 / 43.
+- Fakticky: **−6 je nejhorší výsledek Osborna mezi nestranickými průzkumy v souboru** (NYT/Siena dříve −1, 22. 9.–1. 10.); objednané R průzkumy dosud do −5.
+- Průměry: **270toWin web (31. 10., 5 průzkumů) Ricketts 46,2 / Osborn 43,6 → −2,6** (dříve −2,0); **DDHQ (do 29. 10.) 46,8 / 44,8 → −2,0** (dříve −0,7).
+- **Rating: Cook 30. 10. Nebraska Likely R → Lean R** ([Cook Substack](https://thecookpoliticalreport.substack.com/p/two-senate-and-a-dozen-house-moves), **primární web**; soubor dosud vedl Cook NE Likely R — sedí).
+
+### us-sen-oh — Ohio: nic nového
+
+- Žádný nový průzkum (Wikipedia, 270toWin); průměry beze změny (270toWin +3,5; DDHQ +3,2; RCP +3,3). Žádná materiální zpráva nenalezena.
+
+### us-sen-tx — Texas: 1 nový průzkum; konec předčasného hlasování
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Paxton (R) | Talarico (D) | T. Brown (L) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Data for Progress (D) | vlastní; zveř. 30. 10. 22:11 ET | October 23–27, 2026 (Wikipedia: 23.–26.) | 712 (LV) | ± 4.0% | 45% | 49% | 2% | – | 4% | **+4** | [DfP](https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas) | **primární web** (n a MoE z Wikipedie / 270toWin) |
+
+- Fakticky: +4 uvnitř rozpětí souboru (−3 až +8). DfP guvernér: Abbott 48 / Hinojosa 47.
+- Průměry: **270toWin web (31. 10., 9 průzkumů) Talarico 49,6 / Paxton 46,2 → +3,4** (dříve +3,2); Wikipedia DDHQ +3,7 / RCP +1,8 / Texas Tribune +2,9 (beze změny).
+- **Předčasné hlasování (skončilo pá 30. 10.):** tracker Theo Elections (z dat SoS) **6 897 400 hlasů „as of Oct 30“ (6 624 395 osobně + 273 005 poštou)**; 36,9 % osobních voličů bez účasti v primárkách od 2022 ([theoelections.com](https://theoelections.com/early-vote), **jen sekundární**, nelze vyloučit neúplný poslední den). Dallas Morning News (via Longview News-Journal 31. 10.): 6,4 mil. osobně do čtvrtka; rekord pro midterm (2018: 5,5 mil. osobně předčasně, 8,3 mil. celkem). Oficiální SoS → 403.
+- Zprávy: Talarico ne 1. 11. mítink v Plano (FOX 4, výtah). Nic materiálního.
+
+### Ostatní senátní závody (pro kontrolu Senátu)
+
+**Aljaška:**
+
+| Agentura | Terén | n | MoE | Kolo RCV | Sullivan (R) | Peltola (D) | Dan J. Sullivan | Heikes | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Alaska Survey Research (Ivan Moore) | October 26–29, 2026 (zveř. 30. 10. večer, X) | 1,326 (LV) | ± 3.0% | 1. kolo | 46% | 48% | 3% | 3% | +2 | [X @the_real_asr](https://x.com/the_real_asr/status/2116291676176331181) via Political Wire 30. 10. 23:28 ET | **jen sekundární** (Wikipedia + 270toWin + PW) |
+| — tentýž | | | | 2. kolo | 47% | 48% | 5% | – | +1 | | |
+| — tentýž | | | | finále | 49% | 51% | – | – | **+2** | | |
+
+- **DOJ žaloba (U.S. District Court Anchorage, soudkyně Sharon Gleason):** pozměněná žaloba žádá **zachovat a oddělit všechny hlasovací lístky, které řadí Dana J. Sullivana**, a **zablokovat okamžitou certifikaci**, pokud by sen. Sullivan prohrál o rozdíl přičitatelný záměně; US attorney Michael J. Heyman (pá 30. 10.): „both a civil investigation and a criminal investigation“; soud nařídil zrychlené podání (DOJ do pá 13:00 AKT, ostatní do so poledne) a ponechal možnost rozhodnout před volbami ([CNBC](https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html) 30. 10., **ověřeno na stránce**). Stát a Peltola: DOJ nemá pravomoc blokovat certifikaci kvůli shodě jmen.
+- CNN 31. 10. (via PW): výsledek AK může trvat **až dva týdny** (RCV, pozdní pošta) — **jen sekundární**.
+- Průměry (Wikipedia, stále 28. 10., jen do 16. 10.): beze změny.
+
+**Další závody:**
+- **ME:** Data for Progress (D), 23.–27. 10., 652 LV, ± 4: **Jackson 50 / Collins 45 → +5** ([DfP](https://www.dataforprogress.org/blog/2026/10/30/democratic-senate-candidates-lead-in-maine-michigan-and-texas), **primární web**; n z 270toWin); guvernér Pingree 49 / Charles 37 / Bennett 7. 270toWin web 31. 10.: Jackson 49,2 / Collins 45,6 → +3,6 (dříve +2,6). Wikipedia 30. 10.: DDHQ +2,6 (do 26. 10.), RCP +1,4.
+- **NH:** doplnění (zveř. 29. 10., v souboru chybělo): **UMass Lowell, 600 LV, ± 5: Pappas 48 / Sununu 41 → +7** (jen 270toWin; terén nezjištěn). 270toWin web: 49,8 / 42,5 → +7,3.
+- **NC, GA, MS:** žádné nové průzkumy ani materiální zprávy. 270toWin MS stránka „not available“.
+- **LA:** **Sabato 30. 10. Louisiana Safe R → Likely R** (primární web, viz výše).
+
+### Generic ballot a schválení Trumpa
+
+- Nové celostátní průzkumy po 30. 10. 17:25 nenalezeny (Wikipedia tabulky beze změny od minulého sweepu; Emerson 24.–26. 10. už v souboru).
+- **Průměry generic ballot (Wikipedia, aktualizace 30. 10.):** DDHQ 42,6 / 51,5 → **+8,9** (dříve +9,4); NBC 44,0 / 52,0 → **+8,0** (dříve +9,0); RCP 43,2 / 51,4 → **+8,2** (beze změny); FiftyPlusOne +8,8; průměr řádku **+8,6** (dříve +8,9).
+- **Průměry schválení (Wikipedia, aktualizace 30. 10.):** DDHQ **39,1 / 58,7** (dříve 38,3 / 59,6); RCP 38,4 / 59,7; NBC 38 / 60; NYT 37 / 60; FiftyPlusOne 35,3 / 61,5; Economist 34 / 61; **průměr 36,8 / 60,5 (−23,7)** (dříve 36,7 / 60,7).
+- Zprávy (jen sekundární, PW 30.–31. 10.): federální soud vydal nouzový příkaz zastavující tlak administrativy na volební úředníky (CNN); Schumer zřizuje povolební „war room“ (Semafor); Trump podle zpráv plánuje obnovit údery na Írán den po volbách (titulek PW 30. 10., neověřeno); WaPo: v 13 z 27 sledovaných závodů (vč. senátních ME a TX) mají průzkumy menší rozptyl, než by se čekalo (možné vážení podle hlasování 2024 → „herding“).
+
+### Ratingy (Cook / Sabato / Inside Elections)
+
+- **Cook 30. 10. (closing Senate analysis, J. Taylor):** **Nebraska Likely R → Lean R; Florida Solid R → Likely R**; sedm závodů v rámci chyby průzkumů, demokraté „slight favorites“ pro Senát (slovní hodnocení); podle výtahu vyhledávače Cook čeká čistý zisk D „between two and six seats“ (4 potřeba) — **jen sekundární**. **Sněmovna: 12 nových změn, všechny směrem k D; Cook „projecting that Democrats flip 12 to 25 seats, giving them as many as 240 seats“** ([Cook Substack 30. 10.](https://thecookpoliticalreport.substack.com/p/two-senate-and-a-dozen-house-moves), **primární web**; jednotlivé okresy za paywallem). Toss-upy podle výtahu: AK, IA, KS, OH, TX (+ 2 další; sekundární).
+- **Sabato 30. 10.:** **LA Safe R → Likely R; MN Leans D → Likely D**; souhrn **Senát 49 D (alespoň Leans) / 46 R / 5 toss-up** (beze změny), **Sněmovna 225 / 193 / 17** (beze změny), guvernéři 26 / 22 / 2; MI jediné D křeslo v Leans D. **Finální ratingy Sabato vydá v pondělí 2. 11.** ([Crystal Ball](https://sabatoscrystalball.substack.com/p/a-rating-change-appetizer-senate), **primární web**).
+- **Inside Elections:** poslední 29. 10. (už v souboru); nic nového.
+
+### Předčasné hlasování (jen počty)
+
+- **Florida — oficiálně FL DOS, „compiled 10/31/2026 8:08 AM“** (kumulativně do 30. 10.; [FL DOS](https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats), staženo přímo): mail R 649 060 / D 792 528 / ost. 45 252 / NPA 358 744 = 1 845 584; osobně předčasně R 1 266 874 / D 1 007 126 / ost. 74 591 / NPA 532 318 = 2 880 909. **Celkem 4 726 493 (+452 459 za den); R 1 915 934 (40,54 %) vs D 1 799 654 (38,08 %) → registrovaní R +116 280** (den předtím R +76 677; 2022 ke srovnatelnému bodu R +176 895 — viz Doplněk 29. 10.). Nevrácené mail: R 200 527 / D 238 573 / celkem 602 752. Registrace ≠ hlas.
+- **Texas:** viz us-sen-tx (≈ 6,9 mil., jen sekundární).
+- Ostatní státy: nové oficiální počty nedohledány.
+
+### Sněmovna
+
+- Cook 30. 10.: 12 změn k D, rozsah zisku D 12–25 křesel (viz Ratingy). Sabato souhrn beze změny (225 / 193 / 17), finále 2. 11. Jinak nic nového.
+
+### research_limitation (doplněk)
+
+- NYT (NE toplines), WaPo (KS článek i topline PDF), Cook web (closing analysis), KWWL / The Gazette / OurQuadCities → 403/451; čísla NE ze SRI Siena (primární), terén/n/MoE z Wikipedie a The Hill; WaPo KS zůstává jen sekundární.
+- 270toWin a Wikipedia se u NYT/Siena NE liší (41/46 vs 49/43) — nevyjasněno bez přístupu k NYT toplinu.
+- Patinkin SC: objednatel neuveden; Clemson „incident of violence“ jen ze znění otázky, neověřeno.
+- Texas SoS 403 — konečné počty předčasného hlasování jen z trackeru Theo Elections.
+- Iowa Poll (DMR) pro 2026 neexistuje / nedohledán.
+- Na stránkách 270toWin je widget predikčního trhu a Newsweek článek o FL obsahuje sázkové kurzy a pravděpodobnosti z trhů — nečteno, nic nevytaženo. Výtah vyhledávače zmiňoval stránku „Silver Bulletin“ generic ballot a Newsweek o „forecaster shifts“ — neotevřeno.
+- Sweep ~10:10–10:21 ET v sobotu; sobotní odpolední/večerní a nedělní průzkumy (typicky finální vlny Emerson, AtlasIntel, Trafalgar/InsiderAdvantage, Quantus) nezachyceny — doporučen další sweep.
