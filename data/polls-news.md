@@ -1366,3 +1366,157 @@ Zdroje: Wikipedia raw wikitext stažený 31. 10. ~15:11 CET (jen tabulky průzku
 - Iowa Poll (DMR) pro 2026 neexistuje / nedohledán.
 - Na stránkách 270toWin je widget predikčního trhu a Newsweek článek o FL obsahuje sázkové kurzy a pravděpodobnosti z trhů — nečteno, nic nevytaženo. Výtah vyhledávače zmiňoval stránku „Silver Bulletin“ generic ballot a Newsweek o „forecaster shifts“ — neotevřeno.
 - Sweep ~10:10–10:21 ET v sobotu; sobotní odpolední/večerní a nedělní průzkumy (typicky finální vlny Emerson, AtlasIntel, Trafalgar/InsiderAdvantage, Quantus) nezachyceny — doporučen další sweep.
+
+## Doplněk 1. 11. 2026 (sweep 21:03–21:13 CET, okno od 31. 10. 15:10 CET)
+
+Zdroje: Wikipedia raw wikitext stažený 1. 11. ~21:04 CET (jen tabulky průzkumů a průměrů průzkumů; sekce „Predictions“ nečteny / nic z nich nevytaženo); 270toWin stránky průzkumů (staženo 1. 11. ~21:06 CET, datum = zveřejnění; widget trhu na stránce ignorován); primární PDF/weby dle sloupce Ověření; Political Wire (31. 10.–1. 11.) jako rozcestník. Marže = D − R (NE: Osborn − Ricketts). WaPo (článek i KS PDF), electionlawblog.org, KAKE live blog → 403/451; FL DOS staženo přes curl.
+
+**Hlavní událost okna: finální vlna YouGov (soubory `ttw_*_20261026_lv.pdf`, terén 26.–29. 10., zveř. ne 1. 11.) v 8 státech** — IA, KS, ME, MI, NC, NE, OH, TX. Metodika podle PDF: kdo už hlasoval, byl dotázán, koho volil; nerozhodnutí dotázáni na „lean“ (leaneři započteni). Objednatel v PDF neuveden (stejná řada jako dřívější `ttw_*_20260921` / `ttw_ia_20261006` v souboru). **Všechna čísla ověřena přímo v PDF.**
+
+### us-sen-fl — Florida: 3 nové průzkumy (Stetson finální, Big Data Poll, Political Matrix)
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Moody (R) | Nixon (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Stetson University (CPOR) | vlastní; „final pre-election survey“; online opt-in panel (Qualtrics); datováno 30. 10., PW 31. 10. 10:12 ET; modelovaní LV, základ 861 RV (Wikipedia: 852 RV) | October 26–30, 2026 | 861 (RV základ; „likely voters“) | ± 3.6% (LV, „precision estimate“, ne klasická MoE) | 49% | 45% | 3% | 3% | **−4** | [Stetson PDF](https://www.stetson.edu/artsci/cpor/media/cpor-fall-2026-report-wave-3-october.pdf) | **primární PDF** |
+| Big Data Poll | pro 1776 Law Center (a Public Polling Project dle Wikipedie); 60 % telefon / 40 % online | October 26–30, 2026 | 1,129 (LV) (Wikipedia: 1,067) | ± 3.0% | 51.6% | 44.7% | – (Wikipedia: Gillespie (I) 4 %) | – (leaneři započteni) | **−7** (přesně −6,9) | [Big Data Poll](https://www.bigdatapoll.com/blog/sunshine-state-poll-ashley-moody-leads-angie-craig-governors-race-tight/) | **primární web** |
+| Political Matrix / The Listener Group | divize Palafox Media Network; zveř. 29. 10. (mimo okno, v souboru chybělo) | October 26–28, 2026 | 500 (LV) | ± 4.38% | 41.8% | 35.8% | – | 22.4% | **−6** | [Palafox](https://palafoxproductions.com/new-florida-statewide-poll-for-november-election/) | **primární web** |
+
+- Stetson (PDF): **55 % LV uvádí, že už hlasovalo**; marže Moody se oproti polovině října (−11) zúžila zhruba o 8 b.; guvernér Donalds 51 / Jolly 45; generic ballot do Sněmovny R +3 (49 % R v House). Moody „known and could support“ 50 %, „would never vote“ 34 %.
+- Big Data Poll: guvernér Donalds 47,4 / Jolly 44,2. Pozn.: hodnocení této agentury viz tabulka ratingů agentur výše v souboru.
+- Fakticky: −4 (Stetson) = nejužší Moody náskok od nestranické agentury v říjnu; rozpětí souboru (−11 až 0) se nemění.
+- Průměry: **270toWin web (1. 11., 6 průzkumů) Moody 50,2 / Nixon 44,5 → −5,7** (dříve −6,0); Wikipedia 31. 10.: DDHQ (do 30. 10.) 48,2 / 42,5 → −5,7 (dříve −6,5); RCP (2.–30. 10.) −6,3 (beze změny); FiftyPlusOne −6,0.
+
+### us-sen-ia — Iowa: YouGov Turek +1; Trump v Dubuque posunut na 15:00 CT (v době sweepu ještě nemluvil)
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Hinson (R) | Turek (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov | řada `ttw`; zveř. 1. 11. | October 26–29, 2026 | 2,020 (LV) | ± 3.1% | 49% | 50% | 1% | 0% | **+1** | [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261026_lv.pdf) | **primární PDF** |
+
+- Z PDF: Trump approve 43 / disapprove 56; guvernér **Sand (D) 53 / Lahn (R) 46**; vzorek podle hlasování 2024 Trump 51 / Harris 42. Předchozí vlna YouGov (6.–12. 10.) +1 → beze změny.
+- **Mítink ne 1. 11., Five Flags Center, Dubuque:** podle KTIV (1. 11., **ověřeno na stránce**) a Election Central (**ověřeno na stránce**) **posunut o hodinu: dveře 11:30, program 13:30, Trump 15:00 CT (16:00 ET = 22:00 CET)** — v době sweepu (~15:15 ET) Trump ještě nevystoupil; **zda vystoupí Hinson, není v žádném zdroji uvedeno** (Election Central: „Supporting: Ashley Hinson and Iowa Republicans“). Obsah projevu zatím neznámý. KTIV: městem neschválená plachta zakrývající nástěnnou malbu „Solidarity“ na budově byla odstraněna; KTIV dále uvádí, že Trump zdůvodnil čtvrteční zrušení tím, že republikánský kandidát v Kansasu „was doing well“ (jen z této zprávy).
+- Průměry: Wikipedia beze změny (29. 10.); **270toWin web (1. 11., 5 průzkumů) Turek 46,4 / Hinson 46,2 → +0,2** (dříve −0,6).
+
+### us-sen-sc — Jižní Karolína: žádný nový průzkum; Clemson incident ověřen
+
+- **Clemson incident (úkol z minulého sweepu): OVĚŘENO.** Mítink Trumpa s Darline Graham **st 21. 10. 2026, T. Ed Garrison Arena (Clemson University), Pendleton SC**; během mítinku byli vyvedeni demonstranti (6 přerušení v prvních ~10 minutách) a jeden účastník vyváděného demonstranta udeřil; Trump z pódia: „Who's the guy that threw the punch?“, „got whacked“ (WBTV 22. 10., **ověřeno na stránce**; Daily Beast/GV Wire shodně, sekundární). Graham byla přítomna. Událost je mimo okno (21. 10.), v souboru dosud chyběla.
+- Patinkin (D) 27.–29. 10.: Wikipedia nově uvádí objednatele **„Project V.O.T.E.“** (jen sekundární; PDF objednatele neuvádí).
+- Průměry: Wikipedia beze změny (30. 10.: DDHQ −0,1; RCP −2,7; 270toWin −2,4); 270toWin web (1. 11.) 47,6 / 45,2 → −2,4 (beze změny).
+
+### us-sen-ks — Kansas: YouGov Hamilton +1; mítink v Salině večer (ještě neproběhl)
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Marshall (R) | Hamilton (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov | řada `ttw`; zveř. 1. 11. | October 26–29, 2026 | 2,092 (LV) | ± 2.8% | 49% | 50% | 1% | 0% | **+1** | [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20261026_lv.pdf) | **primární PDF** |
+
+- Z PDF: Trump approve 46 / disapprove 54; guvernér **Masterson (R) 50 / Holscher (D) 49**; vzorek podle hlasování 2024 Trump 54 / Harris 40; registrace R 50 / D 27. Předchozí vlna YouGov (24. 9.–4. 10.) +3 → −2 b.
+- Fakticky: +1 je spodní hrana nestranických průzkumů z posledních dvou týdnů v souboru (Emerson +4, CNN +4, WaPo +9 sekundárně); dřívější InsiderAdvantage (R) −1 a +1.
+- **Mítink Salina, ne 1. 11.:** Salina Regional Airport, Hangar 509; **dveře 15:30, program 17:30, Trump 19:00 CT (20:00 ET = 2:00 CET 2. 11.)** (Election Central, **ověřeno na stránce**; KAKE live blog → 451). V době sweepu neproběhl.
+- Průměry: **Wikipedia 1. 11.: 270toWin 49,4 / 46,0 → +3,4; DDHQ (do 29. 10.) 48,8 / 46,3 → +2,5** (dříve +2,9); FiftyPlusOne +3,0; RCP (22. 9.–29. 10.) 48,6 / 46,3 → +2,3 (Wikipedia uvádí +2,6). 270toWin web (1. 11., 5 průzkumů vč. YouGov) Hamilton 49,4 / Marshall 46,0 → +3,4.
+- **WaPo/Schar KS (43/52): znovu primárně NEOVĚŘENO** — WaPo PDF nedostupné (spojení odmítnuto / 403); přehled „Schar School in the News, October 26–30“ na schar.gmu.edu Kansas nezmiňuje. Zůstává jen sekundární (270toWin ho dál vede: 801 LV, ± 3,9, 52/43, zveř. 30. 10.).
+
+### us-sen-mi — Michigan: YouGov El-Sayed +4; **Haley Stevens podpořila Rogerse**
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Rogers (R) | El-Sayed (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov | řada `ttw`; zveř. 1. 11. | October 26–29, 2026 | 2,093 (LV) | ± 3% | 47% | 51% | 1% (+ nevolí 1 %) | 1% | **+4** | [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf) | **primární PDF** |
+
+- Z PDF: Trump approve 43 / disapprove 57; guvernér Benson 52 / James 46; vzorek 2024 Harris 47 / Trump 45. Předchozí vlna YouGov (22. 9.–4. 10.) +1 → +3 b. Terén **před** Stevensovou podporou Rogerse.
+- **Ne 1. 11.: poražená demokratická kandidátka z primárek, poslankyně Haley Stevens, podpořila republikána Mika Rogerse** — po bohoslužbě, kterou navštívila s Rogersem, na tiskovce v Detroitu; zdůvodnění: reklama Rebellion PAC (o cenách potravin a podpoře Izraele), „I don't belong in Abdul's campaign. I do not stand with Hasan Piker.“ **Schumer: „a despicable betrayal“**; Trump ji pochválil na Truth Social; **El-Sayed: „at the end of the day, I actually don't think about Haley Stevens“** ([CNBC 1. 11. 12:50 ET](https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html), **ověřeno na stránce**; NYT/NBC/The Hill/Detroit News shodně podle titulků).
+- **Celý Stevensové kongresový tým vč. dlouholetého šéfa kanceláře podal rezignaci** (Detroit News via [Political Wire](https://politicalwire.com/2026/11/01/) 13:54 ET, **jen sekundární**).
+- Kontext: navazuje na páteční žádost El-Sayedova týmu, aby Stevens nechodila na akce kampaně (Doplněk 31. 10.).
+- Průměry: **270toWin web (1. 11., 6 průzkumů) El-Sayed 50,5 / Rogers 44,5 → +6,0** (dříve +5,5); Wikipedia 31. 10.: DDHQ (do 29. 10.) 49,2 / 44,5 → +4,7 (beze změny); FiftyPlusOne +4,7; RCP 30. 10. +3,5 (beze změny).
+
+### us-sen-mn — Minnesota: nic nového
+
+- Žádný nový průzkum (Wikipedia, 270toWin); průměry beze změny (Wikipedia 28. 10.: DDHQ +6,8, RCP +5,1; 270toWin web +6,0). Žádná materiální zpráva nenalezena.
+
+### us-sen-ne — Nebraska: YouGov remíza 49 : 49
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Ricketts (R) | Osborn (I) | Jiní | Nerozh. | Marže Osborn − Ricketts | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov | řada `ttw`; zveř. 1. 11. | October 26–29, 2026 | 1,979 (LV) | ± 2.8% | 49% | 49% | 1% (+ nevolí 1 %) | 0% | **0** | [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20261026_lv.pdf) | **primární PDF** |
+
+- Z PDF: Trump approve 48 / disapprove 52; guvernér Pillen 50 / Walz 47; vzorek 2024 Trump 55 / Harris 38. Předchozí vlna YouGov (24. 9.–3. 10.) +1 → −1 b.
+- Fakticky: tentýž terén jako NYT/Siena (23.–29. 10., −6) — rozdíl 6 b. mezi dvěma velkými nestranickými průzkumy.
+- Průměry: Wikipedia 31. 10. beze změny (270toWin −2,6; DDHQ −2,0; FiftyPlusOne −1,7); **270toWin web (1. 11., 5 průzkumů) Osborn 43,8 / Ricketts 46,6 → −2,8** (270toWin stále vede NYT/Siena jako 41/46).
+
+### us-sen-oh — Ohio: YouGov Brown +2, ActiVote Brown +0,4; průměry se zúžily
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Husted (R) | Brown (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov | řada `ttw`; zveř. 1. 11. | October 26–29, 2026 | 2,090 (LV) | ± 2.8% | 48% | 50% | 2% | 1% | **+2** | [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20261026_lv.pdf) | **primární PDF** |
+| ActiVote | aplikace; zveř. 31. 10. | October 18–31, 2026 | 400 (LV) | ± 4.9% | 49.8% | 50.2% | – | – | **+0,4** | [ActiVote](https://www.activote.net/polls/2026/oh-u-s-senate/) | **primární web** |
+
+- Z PDF YouGov: Trump approve 45 / disapprove 54; guvernér **Acton (D) 52 / Ramaswamy (R) 46**; vzorek 2024 Trump 52 / Harris 42. Předchozí vlna YouGov (18.–30. 9.) +4 → −2 b. ActiVote dříve −0,4 (26. 9.–18. 10.).
+- **Průměry (Wikipedia 1. 11.): 270toWin 48,2 / 46,6 → +1,6; DDHQ (do 31. 10.) 48,9 / 46,7 → +2,2; FiftyPlusOne +2,6; RCP (5.–29. 10.) 48,1 / 45,6 → +2,5** — v Doplňku 31. 10. bylo 270toWin +3,5 / DDHQ +3,2 / RCP +3,3, tj. **pokles o ~1 b.** 270toWin web 1. 11. shodně +1,6 (5 průzkumů).
+
+### us-sen-tx — Texas: YouGov Talarico +4, Kreate +3; Paxton zřejmě ruší závěrečný mítink u Alama
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Paxton (R) | Talarico (D) | T. Brown (L) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| YouGov | řada `ttw`; zveř. 1. 11. | October 26–29, 2026 | 2,141 (LV) | ± 2.9% | 47% | 51% | – | 1% (+ nevolí 1 %) | 1% | **+4** | [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_tx_20261026_lv.pdf) | **primární PDF** |
+| Kreate Strategies (KStrat) | vlastní; online panel; zveř. 30. 10. (mimo okno, v souboru chybělo); stranická příslušnost neuvedena | October 27–30, 2026 | 900 (LV) | ± 3.3% | 45% | 48% | – | – | 6% | **+3** | [KStrat](https://kstrat.net/press/texas-2026-senate-governor-talarico-leads-paxton-october) | **primární web** |
+
+- Z PDF YouGov: Trump approve 45 / disapprove 54; guvernér **Abbott 50 / Hinojosa 49**; vzorek 2024 Trump 53 / Harris 40. Předchozí vlna YouGov (28. 9.–5. 10.) +6 → −2 b. KStrat guvernér Abbott 49 / Hinojosa 47.
+- Fakticky: obě uvnitř rozpětí souboru (−3 až +8).
+- Průměry (Wikipedia 1. 11.): **270toWin +3,4; DDHQ (do 30. 10.) 49,3 / 45,8 → +3,5; FiftyPlusOne +3,4; RCP (15.–29. 10.) +1,7; Texas Tribune (do 28. 10.) +2,7** (dříve +2,9). 270toWin web (1. 11., 9 průzkumů) 49,6 / 46,2 → +3,4.
+- **Předčasné hlasování — konečné číslo:** tracker Theo Elections (z dat SoS) **7 744 549 hlasů „as of Oct 30“ (7 463 553 osobně + 280 996 poštou)** — předchozí sweep měl 6,90 mil. (neúplný poslední den). Osobní voliči podle historie primárek: jen D primárky 28,1 %, jen R primárky 30,0 %, oboje 2,5 %, bez primárek 39,4 % ([theoelections.com](https://theoelections.com/early-vote), **jen sekundární**; oficiální SoS nedostupný). Pro srovnání 2018: 8,3 mil. celkem ve volbách.
+- **Paxton: plánovaný závěrečný mítink u Alama v předvečer voleb (konec „Come and Take It“ bus tour) se podle Texas Tribune zřejmě ruší** („Paxton appeared to scrap those plans“; via Political Wire 31. 10. 21:08 ET, **jen sekundární**; důvod neuveden).
+
+### Ostatní senátní závody (pro kontrolu Senátu)
+
+**Aljaška — soud rozhodl před volbami:**
+
+- **Ne 1. 11.: soudkyně Sharon Gleason (U.S. District Court, Anchorage) žalobu DOJ zamítla (dismissed)** — DOJ chtěl zablokovat certifikaci a oddělit lístky pro Daniela J. Sullivana, pokud by sen. Dan S. Sullivan těsně prohrál. Zdůvodnění: požadovaná náprava je „infeasible“, protože mnoho lístků už bylo odevzdáno a smícháno, a DOJ nenabídl „no workable plan“, jak lístky oddělit a vyšetřovat při zachování tajnosti hlasování ([Alaska Public Media 1. 11.](https://alaskapublic.org/news/politics/elections/2026-11-01/judge-tosses-doj-lawsuit-that-sought-to-block-election-results-if-republican-sen-dan-sullivan-loses), **ověřeno na stránce**; CNBC, NPR, WaPo, Al Jazeera shodně).
+- **DOJ se podle Al Jazeery chystá odvolat** (k 9. obvodu; Rick Hasen: „this should be at the Ninth Circuit some time soon“, via PW 13:43 ET) — **jen sekundární**. Federální trestní vyšetřování (US attorney Heyman), státní šetření (guvernér Dunleavy) a šetření výboru Sněmovny pro dohled pokračují (Alaska Public Media / výtah vyhledávače).
+- **Sen. Dan S. Sullivan v ne 1. 11. pro CNN: „I'm going to accept the election results.“** (Al Jazeera, **ověřeno na stránce**; CNN primárně neověřeno).
+- Průzkumy: žádný nový. **Průměry (Wikipedia 31. 10., dříve 28. 10.): DDHQ (do 29. 10.) Peltola 49,8 / Sullivan 48,5 → +1,3; FiftyPlusOne +1,9; RCP (8.–29. 10.) 49,4 / 48,2 → +1,2.** 270toWin web (1. 11., 3 průzkumy, 1. kolo) Peltola 47,7 / Sullivan 44,3 → +3,4.
+
+**Další závody:**
+
+| Stát | Agentura | Terén | n | MoE | R | D | Marže D−R | Ověření |
+|---|---|---|---|---|---|---|---|---|
+| ME | YouGov (`ttw`) | October 26–29, 2026 | 1,503 (LV) | ± 4% | Collins 47 | Jackson 52 | **+5** | **primární [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20261026_lv.pdf)** |
+| NC | YouGov (`ttw`) | October 26–29, 2026 | 2,130 (LV) | ± 2.9% | Whatley 44 | Cooper 55 | **+11** | **primární [PDF](https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nc_20261026_lv.pdf)** |
+
+- **ME:** z PDF Trump 38 / 60; guvernér Pingree 53 / Charles 45; vzorek 2024 Harris 52 / Trump 43. Průměry Wikipedia 31. 10.: DDHQ (do 27. 10.) 49,9 / 46,1 → +3,8 (dříve +2,6); FiftyPlusOne +3,5; RCP (5.–26. 10.) +1,7 (dříve +1,4). 270toWin web (1. 11., 6 průzkumů) Jackson 49,7 / Collins 45,8 → +3,9.
+- **NC:** z PDF Trump 42 / 58; vzorek 2024 Trump 47 / Harris 46. 270toWin web (1. 11., 5 průzkumů) Cooper 53,4 / Whatley 41,8 → +11,6. Wikipedia průměry stále 26. 10.
+- **GA, NH, MS:** žádné nové průzkumy ani materiální zprávy (270toWin GA +9,8, NH +7,3 beze změny).
+- **CT (není ve volbách 2026):** sen. Chris Murphy hospitalizován po mrtvici během kampaně ve více státech (PW 1. 11. 12:50 ET, **jen sekundární**) — relevantní jen pro složení Senátu, ne pro volby.
+
+### Generic ballot a schválení Trumpa
+
+| Agentura | Terén | n | Generic ballot | Schválení Trumpa | Ověření |
+|---|---|---|---|---|---|
+| NBC News (Hart Research (D) + Public Opinion Strategies (R)) — finální průzkum | October 28–30, 2026 (zveř. 1. 11.) | 1 000 RV, ± 3,1; telefon + text/online | **D 52 – R 45 → +7** (nerozh. 3); mezi nejvíce zapojenými (9–10 na škále zájmu, 70 %) D +12 | **40 / 60** (disapproval 60 = rekord NBC za obě období) | **primární web** ([NBC](https://www.nbcnews.com/politics/2026-election/poll-voters-demand-change-check-trump-fueling-steep-democratic-midterm-rcna606183)) |
+
+- NBC dále: 70 % „wrong track“; 51 % nespokojeno s osobními financemi (poprvé za 30 let víc než spokojených). Nezávislí D +21.
+- **Průměry generic ballot (Wikipedia, stále 30. 10.): beze změny** — DDHQ +8,9; NBC +8,0; RCP +8,2; FiftyPlusOne +8,8; průměr řádku +8,6.
+- **Průměry schválení (Wikipedia, stále 30. 10.): beze změny** — DDHQ 39,1 / 58,7; RCP 38,4 / 59,7; NBC 38 / 60; Ballotpedia 38 / 60; NYT 37 / 60; CNN 34 / 64; FiftyPlusOne 35,3 / 61,5.
+- Státní schválení Trumpa z YouGov PDF (LV, 26.–29. 10.): IA 43/56, KS 46/54, ME 38/60, MI 43/57, NC 42/58, NE 48/52, OH 45/54, TX 45/54.
+- Jiné nové celostátní průzkumy v okně nenalezeny (ABC/WaPo/Ipsos 9.–13. 10. je starý).
+
+### Ratingy (Cook / Sabato / Inside Elections)
+
+- **Žádné nové změny po 30. 10. nenalezeny** (Wikipedia tabulky ratingů v senátních článcích uvádějí Cook k 30. 10., Inside Elections k 29. 10., Sabato k 29./30. 10.). **Finální ratingy Sabato vydá v pondělí 2. 11.** (viz Doplněk 31. 10.).
+
+### Předčasné hlasování (jen počty)
+
+- **Florida — oficiálně FL DOS, „compiled 11/01/2026 8:09 AM“** (kumulativně do 31. 10.; [FL DOS](https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats), staženo přímo): mail R 668 424 / D 815 396 / ost. 46 818 / NPA 372 102 = 1 902 740; osobně předčasně R 1 430 249 / D 1 127 932 / ost. 85 108 / NPA 613 508 = 3 256 797. **Celkem 5 159 537 (+433 044 za den); R 2 098 673 (40,68 %) vs D 1 943 328 (37,66 %) → registrovaní R +155 345** (den předtím R +116 280; 2022 ke srovnatelnému bodu R +176 895 dle Doplňku 29. 10., srovnání bodů nepřesné o ~1 den). Nevrácené mail: R 182 012 / D 217 956 / celkem 550 106. Registrace ≠ hlas.
+- **Texas:** konečně ≈ 7,74 mil. (viz us-sen-tx; jen sekundární).
+- **Podíl již hlasovavších ve vzorcích:** Stetson FL 55 % LV (primární PDF).
+- Ostatní státy: nové oficiální počty nedohledány.
+
+### Sněmovna
+
+- NBC generic +7 (RV); Stetson FL generic R +3. Žádné nové ratingové změny. Jinak nic nového.
+
+### research_limitation (doplněk)
+
+- WaPo (KS PDF i článek o Aljašce), electionlawblog.org, KAKE live blog (Salina), Cook Substack (výpis) → 403/451/nedostupné; Aljaška ověřena přes Alaska Public Media; WaPo KS zůstává jen sekundární.
+- Objednatel řady YouGov `ttw` neuveden v PDF ani dohledán.
+- Rozdíly n mezi primárním zdrojem a Wikipedií: Stetson 861 vs 852 RV; Big Data Poll 1 129 vs 1 067 LV.
+- Dubuque a Salina mítinky v době sweepu (15:03–15:13 ET) ještě neproběhly — obsah projevů a účast Hinson neznámé; doporučen ranní sweep 2. 11.
+- Stevens: rezignace týmu jen sekundárně (Detroit News via PW).
+- Texas SoS opět nedostupný — konečné TX počty jen z trackeru Theo Elections.
+- Na stránkách 270toWin je widget predikčního trhu, wikipedie má u závodů sekce „Predictions“ a článek Election Central/PW obsahuje odkazy na soutěže tipů — nečteno, nic nevytaženo. Řádky průměrů na Wikipedii od modelových webů vynechány.
