@@ -1520,3 +1520,134 @@ Zdroje: Wikipedia raw wikitext stažený 1. 11. ~21:04 CET (jen tabulky průzkum
 - Stevens: rezignace týmu jen sekundárně (Detroit News via PW).
 - Texas SoS opět nedostupný — konečné TX počty jen z trackeru Theo Elections.
 - Na stránkách 270toWin je widget predikčního trhu, wikipedie má u závodů sekce „Predictions“ a článek Election Central/PW obsahuje odkazy na soutěže tipů — nečteno, nic nevytaženo. Řádky průměrů na Wikipedii od modelových webů vynechány.
+
+## Doplněk 2. 11. 2026 (sweep 11:06–11:12 CET, okno od 1. 11. 21:03 CET)
+
+Zdroje: Siena Research Institute (SRI) stránka finální vlny NYT/Siena (zveř. 1. 11., PW 20:23 ET; toplines a MoE ověřeny na stránce SRI, terén a n z Wikipedie s odkazem na NYT toplines); Wikipedia raw wikitext stažený 2. 11. ~11:08 CET (jen tabulky průzkumů a průměrů průzkumů; sekce „Predictions“ nečteny / nic z nich nevytaženo); 270toWin stránky průzkumů (staženo 2. 11. ~11:12 CET, datum = zveřejnění; widget trhu ignorován); KCRG, KWCH, Iowa Public Radio, Bloomberg Law; Political Wire 1.–2. 11. jako rozcestník. Marže = D − R (NE: Osborn − Ricketts). Kansas Reflector, Crystal Ball (centerforpolitics.org), newsfromthestates → 403.
+
+**Hlavní událost okna: finální vlna NYT/Siena v 7 státech (AK, IA, KS, ME, MI, OH, TX), zveř. ne 1. 11. večer ET** — Demokraté vedou ve všech sedmi. Dále Trafalgar TX (remíza), AtlasIntel TX, Research Co. (MI, MN, OH), InsiderAdvantage (MN, OH), UNH (ME, NH). Oba nedělní Trumpovy mítinky proběhly; Salina = podle Trumpa jeho poslední mítink kampaně.
+
+### us-sen-fl — Florida: nic nového
+
+- Žádný nový průzkum (Wikipedia, 270toWin). Průměry beze změny (Wikipedia 31. 10.: DDHQ −5,7; FiftyPlusOne −6,0; RCP −6,3).
+- **FL DOS: v době sweepu (2. 11. ~11:08 CET = 05:08 ET) stále report „compiled 11/01/2026 8:09 AM“** — tj. žádný novější oficiální stav než v Doplňku 1. 11. (nevrácené mail R 182 012 / D 217 956 / celkem 550 106 shodně). Nová data (za so 31. 10. / ne 1. 11.) zatím nevyšla.
+
+### us-sen-ia — Iowa: NYT/Siena Turek +1; Trump v Dubuque — Hinson vystoupila
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Hinson (R) | Turek (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| The New York Times/Siena | finální vlna; zveř. 1. 11. (PW 20:23 ET) | October 26 – November 1, 2026 (Wikipedia) | 705 (LV) (Wikipedia, 270toWin) | ± 4.7% (SRI, design effect 1,45) | 47% | 48% | 0% | 5% | **+1** | [SRI Siena](https://sri.siena.edu/2026/11/01/nytimes-siena-poll-of-likely-voters-alaska-iowa-kansas-maine-michigan-ohio-and-texas/) | **toplines a MoE primárně (SRI)**; terén/n sekundárně |
+
+- SRI: guvernér **Sand (D) 51 / Lahn (R) 43**.
+- **Mítink ne 1. 11., Five Flags Center, Dubuque — proběhl.** Podle KCRG (2. 11., **ověřeno na stránce**): Trump mluvil přes 2 hodiny; Írán/ceny pohonných hmot: „It's a very small price to pay for the security of this country“; slib ocelárny za 15 mld. USD v Iowě; k účasti: „When I'm not on the ballot, much fewer people come out to vote... Pretend I'm on the ballot.“; zpochybňoval některé typy hlasování a vyzýval k osobnímu hlasování na papír; **pochválil Hinson a vyzval k hlasování pro ni**. **Hinson vystoupila před Trumpem** (téma dostupnost: „There's a lot of Americans right now who feel like they may have been priced out of the American dream.“). Účast „hundreds“ (KCRG); nejméně 3 demonstranti vyvedeni. The Gazette (titulek): „Hinson, Lahn rejoin Trump in Dubuque“ (nečteno, jen titulek).
+- Průměry: **270toWin web (2. 11., 5 průzkumů vč. NYT/Siena) Turek 46,8 / Hinson 46,8 → 0** (dříve +0,2); Wikipedia 1.–2. 11.: DDHQ (do 1. 11.) Hinson +0,4; FiftyPlusOne (do 1. 11.) Turek +0,7; RCP (9. 10.–1. 11.) Hinson +0,3.
+
+### us-sen-sc — Jižní Karolína: nic nového
+
+- Žádný nový průzkum ani materiální zpráva v okně (Wikipedia, 270toWin, PW).
+
+### us-sen-ks — Kansas: NYT/Siena Hamilton +5; Trump v Salině — „I had to come here to make sure that Roger got elected“
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Marshall (R) | Hamilton (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| The New York Times/Siena | finální vlna; zveř. 1. 11. | October 27 – November 1, 2026 (Wikipedia) | 736 (LV) (Wikipedia, 270toWin) | ± 4.4% (SRI, design effect 1,30; některá média uvádějí 4,1) | 44% | 49% | 4% (Libertarián) | 3% (Wikipedia) | **+5** | [SRI Siena](https://sri.siena.edu/2026/11/01/nytimes-siena-poll-of-likely-voters-alaska-iowa-kansas-maine-michigan-ohio-and-texas/) | **toplines a MoE primárně (SRI)**; terén/n sekundárně |
+
+- SRI: guvernér **Holscher (D) 48 / Masterson (R) 47**. Předchozí NYT/Siena (22.–30. 9.) 45 : 45 podle výtahu vyhledávače (jen sekundární) → +5 b.
+- **Mítink Salina, ne 1. 11., Salina Regional Airport, Hangar 509 — proběhl.** KWCH (1. 11., **ověřeno na stránce**): program začal 17:30, Trump očekáván v 19:00, **dorazil kolem 20:00 CT**; Trump: **„I had to come here to make sure that Roger got elected. I had to.“** a **„This is my 30th rally. And I'm closing it down tonight. This is it.“** (tj. poslední mítink kampaně); o Hamiltonovi podle KWCH přímo nemluvil (newsfromthestates má španělský titulek „Trump defiende el historial de Marshall y llama [a] Hamilton una…“ — článek 403, obsah neověřen); demonstrantů málo (omezený přístup k hangáru). Marshall (výtah vyhledávače z místních médií, **jen sekundární**): „Freedom isn't free, but guess what, freedom isn't for sale either“; „On Sundays we pray, but on Tuesday we vote.“
+- Průměry: **270toWin web (2. 11., 5 průzkumů vč. NYT/Siena) Hamilton 49,8 / Marshall 45,2 → +4,6** (dříve +3,4); Wikipedia (1. 11., ještě bez NYT/Siena): DDHQ +2,5; FiftyPlusOne +3,0; RCP +2,6.
+
+### us-sen-mi — Michigan: NYT/Siena El-Sayed +11; Research Co. +2
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Rogers (R) | El-Sayed (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| The New York Times/Siena | finální vlna; zveř. 1. 11. | October 23 – November 1, 2026 (Wikipedia) | 1,011 (LV) | ± 3.8% (SRI, design effect 1,33) | 42% | 53% | <1% | 6% (Wikipedia) | **+11** | [SRI Siena](https://sri.siena.edu/2026/11/01/nytimes-siena-poll-of-likely-voters-alaska-iowa-kansas-maine-michigan-ohio-and-texas/) | **toplines a MoE primárně (SRI)**; terén/n sekundárně |
+| Research Co. | vlastní; zveř. 1. 11. | October 30 – November 1, 2026 | 450 (LV) | ± 4.6% | 46% (270toWin: 48 %) | 48% (270toWin: 51 %) | 1% | 5% | **+2** (270toWin: +3; rozdíl patrně leaneři) | Wikipedia / 270toWin | **jen sekundární** |
+
+- SRI: guvernér **Benson 52 / James 39**.
+- **Terén obou průzkumů skončil 1. 11., tj. v den podpory Stevensové pro Rogerse — efekt podpory v nich prakticky není.** Průzkum s terénem až po podpoře nenalezen.
+- Průměry: **270toWin web (2. 11., 8 průzkumů) El-Sayed 50,9 / Rogers 44,6 → +6,3** (dříve +6,0); Wikipedia (1. 11., bez nedělních průzkumů): DDHQ +6,1; FiftyPlusOne +5,3; RCP +5,3.
+
+### us-sen-mn — Minnesota: Research Co. +5, InsiderAdvantage +3
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Flanagan (DFL) | Tafoya (R) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Research Co. | vlastní; zveř. 1. 11. | October 30 – November 1, 2026 | 450 (LV) | ± 4.6% | 48% | 43% | 2% | 7% | **+5** | Wikipedia | **jen sekundární** |
+| InsiderAdvantage (R) | vlastní | October 29–30, 2026 | 1,200 (LV) | ± 2.8% | 49% | 46% | 4% (Whiting (L) 3, Simonetti (I) 1) | 1% | **+3** | Wikipedia | **jen sekundární** |
+
+- InsiderAdvantage dříve +1 (28.–29. 9.). Oba uvnitř rozpětí souboru.
+
+### us-sen-ne — Nebraska: nic nového
+
+- Žádný nový průzkum v okně (nejnovější v tabulce Wikipedie: YouGov, National Public Affairs (R), NYT/Siena — vše už v souboru). Žádná materiální zpráva.
+
+### us-sen-oh — Ohio: NYT/Siena Brown +5; InsiderAdvantage +2; Research Co. +1
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Husted (R) | Brown (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| The New York Times/Siena | finální vlna; zveř. 1. 11. | October 26 – November 1, 2026 (Wikipedia) | 717 (LV) | ± 4.4% (SRI, design effect 1,33; 270toWin 4,2) | 44% | 49% | 0% | 7% | **+5** | [SRI Siena](https://sri.siena.edu/2026/11/01/nytimes-siena-poll-of-likely-voters-alaska-iowa-kansas-maine-michigan-ohio-and-texas/) | **toplines a MoE primárně (SRI)**; terén/n sekundárně |
+| InsiderAdvantage (R) | vlastní; zveř. 1. 11. | October 29–30, 2026 | 1,200 (LV) | ± 2.8% | 47% | 49% | 3% | 1% | **+2** | Wikipedia / 270toWin (shodně) | **jen sekundární** |
+| Research Co. | vlastní; zveř. 1. 11. | October 30 – November 1, 2026 | 450 (LV) | ± 4.6% | 44% (270toWin: 48 %) | 45% (270toWin: 49 %) | 2% | 9% | **+1** | Wikipedia / 270toWin | **jen sekundární** |
+
+- SRI: guvernér **Acton (D) 49 / Ramaswamy (R) 43**.
+- Průměry: **270toWin web (2. 11., 6 průzkumů) Brown 49,0 / Husted 47,3 → +1,7** (dříve +1,6); Wikipedia 1. 11.: DDHQ (do 1. 11.) +2,7; FiftyPlusOne +2,9; RCP (12. 10.–1. 11.) 48,9 / 46,1 → +2,8.
+
+### us-sen-tx — Texas: NYT/Siena Talarico +7; Trafalgar remíza; AtlasIntel +6
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Paxton (R) | Talarico (D) | T. Brown (L) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| The New York Times/Siena | finální vlna; zveř. 1. 11. | October 27 – November 1, 2026 (Wikipedia) | 1,215 (LV) | ± 3.4% (SRI, design effect 1,29) | 43% | 50% | – | 0% | 6% | **+7** | [SRI Siena](https://sri.siena.edu/2026/11/01/nytimes-siena-poll-of-likely-voters-alaska-iowa-kansas-maine-michigan-ohio-and-texas/) | **toplines a MoE primárně (SRI)**; terén/n sekundárně |
+| Trafalgar Group (R) | vlastní; na webu Trafalgaru vydání „November 2, 2026“ | October 31 – November 1, 2026 | 1,089 (LV) | ± 2.9% | 48% | 48% | 2% | – | 2% | **0** | Wikipedia / 270toWin; datum a terén na [thetrafalgargroup.org](https://www.thetrafalgargroup.org/) | toplines **jen sekundární**; existence/terén primárně |
+| AtlasIntel | zveř. ~1.–2. 11. | October 28 – November 1, 2026 | 1,678 (**A** podle Wikipedie) | ± 2.0% | 45% | 51% | – | 3% (jiný 2, nevolil by 1) | 1% | **+6** | Wikipedia | **jen sekundární** |
+
+- SRI: guvernér **Hinojosa (D) 48 / Abbott (R) 47**.
+- Trafalgar dříve +3 (6.–8. 10.) a 0 (21.–23. 10.) → stejné jako minulá vlna. Rozpětí souboru (−3 až +8) se nemění.
+- Průměry: **270toWin web (2. 11., 11 průzkumů) Talarico 49,5 / Paxton 46,1 → +3,4** (beze změny); Wikipedia 1. 11.: DDHQ (do 1. 11.) 49,2 / 45,1 → +4,1 (dříve +3,5); FiftyPlusOne +3,8 (dříve +3,4); RCP (15. 10.–1. 11.) +2,5 (dříve +1,7); Texas Tribune (do 28. 10.) +2,7.
+- Předčasné hlasování: žádné novější konečné číslo než ≈ 7,74 mil. (Doplněk 1. 11.); oficiální SoS nedohledán.
+
+### Ostatní senátní závody (pro kontrolu Senátu)
+
+**Aljaška — DOJ se odvolal; NYT/Siena Peltola +2:**
+
+- **DOJ podal odvolání k 9. obvodu v neděli 1. 11., tentýž den jako zamítnutí** ([Bloomberg Law](https://news.bloomberglaw.com/us-law-week/doj-appeals-judges-decision-to-toss-alaska-us-senate-lawsuit), **ověřeno na stránce**: „The appeal to the US Court of Appeals for the Ninth Circuit Sunday, the same day the ruling was issued…“). Návrh na urychlené/mimořádné projednání ani harmonogram v článku neuvedeny. Jeden výtah (lawcommentary.com, **jen sekundární**) uvádí, že soud zamítl pro nedostatek „redressability“ (Article III standing).
+- NYT/Siena (zveř. 1. 11.): **Peltola 48 / Sullivan 46 → +2**; terén October 23–30, 2026, 610 LV, ± 5.0% (SRI, design effect 1,47); toplines a MoE **primárně (SRI)**, terén/n z Wikipedie. SRI guvernér (RCV): Kreiss-Tomkins 54 / Wilson 46.
+- Průměry: 270toWin web (2. 11., 4 průzkumy, 1. kolo) Peltola 47,8 / Sullivan 44,8 → +3,0 (dříve +3,4); Wikipedia beze změny (31. 10.: DDHQ +1,3; FiftyPlusOne +1,9; RCP +1,2).
+
+**Další závody:**
+
+| Stát | Agentura | Terén | n | MoE | R | D | Marže D−R | Ověření |
+|---|---|---|---|---|---|---|---|---|
+| ME | The New York Times/Siena (zveř. 1. 11.) | October 27 – November 1, 2026 | 714 (LV) | ± 4.7% (SRI) | Collins 45 | Jackson 51 | **+6** | toplines **primárně (SRI)**; terén/n sekundárně |
+| ME | University of New Hampshire (Granite State Poll, zveř. 1. 11.) | October 27–31, 2026 | 1,654 (LV) | ± 2.4% | Collins 45 | Jackson 54 | **+9** | čísla **jen sekundární** (Wikipedia); existence a závěr („Jackson Opens Lead Over Collins“) [UNH](https://scholars.unh.edu/survey_center_polls/1013/) ověřeny |
+| NH | University of New Hampshire (zveř. ~1.–2. 11.) | October 27–31, 2026 | 2,040 (LV) | ± 2.2% | Sununu 42 | Pappas 54 | **+12** | **jen sekundární** (Wikipedia; Edmond LaPlante (C) 2 %) |
+
+- **ME:** SRI guvernér Pingree 49 / Charles 37 (nezávislý 8). UNH (stránka): většina voličů Maine si přesto myslí, že Collins vyhraje; LePage mírně vede v ME-2. Průměry: 270toWin web (2. 11., 7 průzkumů) Jackson 49,9 / Collins 45,7 → +4,2 (dříve +3,9); Wikipedia 1. 11.: DDHQ (do 1. 11.) +4,9 (dříve +3,8); FiftyPlusOne +5,0; RCP (8. 10.–1. 11.) +3,3 (dříve +1,7).
+- **NC, GA:** žádné nové průzkumy v okně.
+
+### Generic ballot a schválení Trumpa
+
+- **Žádný nový celostátní průzkum zveřejněný v okně nenalezen** (Marist D +14 / approve 40 a Reuters/Ipsos approve 31–32 ve výtazích vyhledávače jsou z října — v okně neověřeny, datum nejisté; nezapočítávat jako nové).
+- Státní schválení z NYT/Siena na stránce SRI neuvedeno.
+
+### Ratingy (Cook / Sabato / Inside Elections)
+
+- **Finální ratingy Sabato (ohlášeny na po 2. 11.) v době sweepu (05:10 ET) nedohledány** — centerforpolitics.org → 403, vyhledávání nic z 2. 11. nevrací; poslední známý stav Sabato 29./30. 10. Cook (30. 10.) a Inside Elections (29. 10.) beze změny.
+
+### Předčasné hlasování (jen počty)
+
+- **Florida:** FL DOS stále „compiled 11/01/2026 8:09 AM“ — beze změny proti Doplňku 1. 11. (celkem 5 159 537; registrovaní R +155 345).
+- **Texas:** beze změny (≈ 7,74 mil., jen sekundární).
+- Ostatní státy: nové oficiální počty nedohledány.
+
+### Sněmovna
+
+- Nic nového (žádné nové ratingové změny ani celostátní generic ballot v okně).
+
+### research_limitation (doplněk)
+
+- Sweep proběhl 05:06–05:12 ET v pondělí — ranní průzkumy 2. 11. (Emerson, Quantus, Rasmussen, Marist aj. finální vlny) a finální Sabato zatím nezachyceny; FL DOS dosud neaktualizoval. Doporučen další sweep odpoledne CET.
+- NYT/Siena: SRI stránka obsahuje toplines a MoE, ne terén a n; ty převzaty z Wikipedie (odkazuje na NYT toplines) a 270toWin; NYT interaktivní toplines neotevřeny. U MoE se zdroje liší (KS 4,4 SRI vs 4,1 média; OH 4,4 SRI vs 4,2 270toWin) — uvedeno SRI.
+- Research Co.: Wikipedia a 270toWin uvádějí rozdílná čísla (MI 48/46 vs 51/48; OH 45/44 vs 49/48), primární zdroj neotevřen.
+- Trafalgar TX, AtlasIntel TX, InsiderAdvantage MN/OH, UNH ME/NH čísla jen ze sekundárních zdrojů (Wikipedia/270toWin).
+- Kansas Reflector, newsfromthestates (Salina), Crystal Ball, The Gazette → 403/nečteno; Marshallovy citace jen z výtahu vyhledávače.
+- Michigan: průzkum s terénem po podpoře Stevensové pro Rogerse (1. 11.) nenalezen.
+- Na stránkách 270toWin je widget predikčního trhu, wikipedie má u závodů sekce „Predictions“ (sloupce ratingů včetně modelových webů) — nečteno pro účely souboru, nic nevytaženo kromě konstatování, že Sabato řádek tam nese datum 29. 10.
