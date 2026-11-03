@@ -1,0 +1,110 @@
+{
+ "model": "The Economist",
+ "date": "2026-11-03",
+ "model_date": "2026-11-02",
+ "source": "cdn.economistdatateam.com/2026-us-midterms/data (topline.csv, aggregated_sims.csv)",
+ "races": {
+  "us-sen-fl": {
+   "dist": {
+    "Nixon": 0.073,
+    "Moody": 0.927
+   },
+   "dem_name": "Angie Nixon",
+   "rep_name": "Ashley Moody",
+   "district": "FL.3",
+   "avg_dem_2p": 0.4627
+  },
+  "us-sen-ia": {
+   "dist": {
+    "Turek": 0.2852,
+    "Hinson": 0.7148
+   },
+   "dem_name": "Josh Turek",
+   "rep_name": "Ashley Hinson",
+   "district": "IA.2",
+   "avg_dem_2p": 0.4851
+  },
+  "us-sen-sc": {
+   "dist": {
+    "Andrews": 0.2062,
+    "Graham": 0.7938
+   },
+   "dem_name": "Annie Andrews",
+   "rep_name": "Darline Graham",
+   "district": "SC.2",
+   "avg_dem_2p": 0.4787
+  },
+  "us-sen-ks": {
+   "dist": {
+    "Hamilton": 0.4427,
+    "Marshall": 0.5573
+   },
+   "dem_name": "Adam Hamilton",
+   "rep_name": "Roger Marshall",
+   "district": "KS.2",
+   "avg_dem_2p": 0.4962
+  },
+  "us-sen-mi": {
+   "dist": {
+    "ElSayed": 0.7163,
+    "Rogers": 0.2837
+   },
+   "dem_name": "Abdul El-Sayed",
+   "rep_name": "Mike Rogers",
+   "district": "MI.2",
+   "avg_dem_2p": 0.5146
+  },
+  "us-sen-mn": {
+   "dist": {
+    "Flanagan": 0.8159,
+    "Tafoya": 0.1841
+   },
+   "dem_name": "Peggy Flanagan",
+   "rep_name": "Michele Tafoya",
+   "district": "MN.2",
+   "avg_dem_2p": 0.5237
+  },
+  "us-sen-ne": {
+   "dist": {
+    "Osborn": 0.1354,
+    "Ricketts": 0.8646
+   },
+   "dem_name": "Dan Osborn",
+   "rep_name": "Pete Ricketts",
+   "district": "NE.2",
+   "avg_dem_2p": 0.4702
+  },
+  "us-sen-oh": {
+   "dist": {
+    "Brown": 0.5345,
+    "Husted": 0.4655
+   },
+   "dem_name": "Sherrod Brown",
+   "rep_name": "Jon Husted",
+   "district": "OH.3",
+   "avg_dem_2p": 0.5024
+  },
+  "us-sen-tx": {
+   "dist": {
+    "Talarico": 0.5187,
+    "Paxton": 0.4813
+   },
+   "dem_name": "James Talarico",
+   "rep_name": "Ken Paxton",
+   "district": "TX.2",
+   "avg_dem_2p": 0.5013
+  },
+  "us-senate-control": {
+   "dist": {
+    "Democrats": 0.533,
+    "Republicans": 0.467
+   }
+  },
+  "us-house-control": {
+   "dist": {
+    "Democrats": 0.9356,
+    "Republicans": 0.0644
+   }
+  }
+ }
+}

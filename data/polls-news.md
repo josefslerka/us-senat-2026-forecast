@@ -1651,3 +1651,175 @@ Zdroje: Siena Research Institute (SRI) stránka finální vlny NYT/Siena (zveř.
 - Kansas Reflector, newsfromthestates (Salina), Crystal Ball, The Gazette → 403/nečteno; Marshallovy citace jen z výtahu vyhledávače.
 - Michigan: průzkum s terénem po podpoře Stevensové pro Rogerse (1. 11.) nenalezen.
 - Na stránkách 270toWin je widget predikčního trhu, wikipedie má u závodů sekce „Predictions“ (sloupce ratingů včetně modelových webů) — nečteno pro účely souboru, nic nevytaženo kromě konstatování, že Sabato řádek tam nese datum 29. 10.
+
+## Doplněk 3. 11. 2026 (sweep 08:47–08:54 CET, okno od 2. 11. 11:06 CET)
+
+Zdroje: Wikipedia raw wikitext stažený 3. 11. ~08:48 CET (jen tabulky průzkumů a průměrů průzkumů; u ratingů jen sloupce Cook / Inside Elections / Sabato, ostatní řádky sekcí „Predictions“ nečteny); Sabato's Crystal Ball Substack (finální ratingy 2. 11., **primární web**); Cook Political Report Substack (MI, 2. 11., **primární web**); Trafalgar PDF (MI, OH; **primární**); Survey 160 blog (KS, ME, MN, OH; **primární**); John Zogby Strategies (MI; **primární**); FL DOS PublicStats (staženo přímo ~08:52 CET); 270toWin stránky průzkumů (TX, OH, IA, KS, ME, MI; widget trhu ignorován); Political Wire 2. 11. (16:39–22:27 ET) jako rozcestník. Marže = D − R (NE: Osborn − Ricketts). centerforpolitics.org, cookpolitical.com → 403; Poll Vault (Emerson) za paywallem.
+
+**Hlavní události okna:** (1) **Finální ratingy Sabato (2. 11.): žádné toss-upy — KS, ME, OH, TX → Leans D; IA → Leans R; souhrn Senát 53 D / 47 R.** (2) **Cook 2. 11.: Michigan Toss-up → Lean D.** (3) Finální vlna AtlasIntel (terén 28. 10.–1. 11.) v 10 státech; Emerson/Poll Vault (MI, ME, OH, TX), Trafalgar (MI, OH, SC), Survey 160 (KS, ME, MN, OH), GrayHouse IA, Zogby MI, Rasmussen ME/SC, InsiderAdvantage AK/GA, Research Co. (FL, GA, TX). (4) FL DOS aktualizoval (compiled 2. 11. 11:03): registrovaní R náskok se zúžil na +133 177.
+
+### us-sen-fl — Florida: Research Co. Moody +7; FL DOS aktualizován
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Moody (R) | Nixon (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Research Co. | vlastní; zveř. 2. 11. („Florida Stays Red, Texas Could See Senate Swing“) | October 31 – November 2, 2026 | 450 (LV) | ± 4.6% | 51% | 44% | 1% (Gillespie (I)) | 4% | **−7** | Wikipedia | **jen sekundární** |
+
+- Uvnitř rozpětí souboru (−11 až 0). Průměry na Wikipedii beze změny (31. 10.: DDHQ −5,7; FiftyPlusOne −6,0).
+- **FL DOS — oficiálně, statewide „compiled 11/02/2026 11:03AM“** ([FL DOS](https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats), staženo přímo; okresní řádky nesou 11/02/2026 8:09AM): mail R 678 784 / D 832 634 / ost. 47 774 / NPA 382 291 = 1 941 483; osobně předčasně R 1 497 472 / D 1 210 445 / ost. 90 996 / NPA 668 396 = 3 467 309. **Celkem 5 408 792 (+249 255 proti 1. 11.); R 2 176 256 (40,2 %) vs D 2 043 079 (37,8 %) → registrovaní R +133 177** (1. 11.: R +155 345 → náskok R se za poslední den předčasného hlasování zúžil o ~22 tis.). Nevrácené mail: R 172 326 / D 202 515 / ost. 15 610 / NPA 124 499 = 514 950. Registrace ≠ hlas.
+
+### us-sen-ia — Iowa: AtlasIntel Turek +5; GrayHouse (R) Hinson +2; Sabato → Leans R
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Hinson (R) | Turek (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| AtlasIntel | finální vlna; PW 2. 11. 20:27 ET | October 28 – November 1, 2026 | 1,219 (LV) | ± 3.0% | 46% | 51% | 3% | 0% | **+5** | Wikipedia; PW (shodně 51/46) | **jen sekundární** |
+| GrayHouse (R) | vlastní; „GrayHouse Poll: Hinson Leads in Iowa by 2“, zveř. 2. 11. | October 28–31, 2026 | 601 (LV) | ± 4.0% | 48% | 46% | 2% | 4% | **−2** | Wikipedia; 270toWin (shodně) | **jen sekundární** |
+
+- **Sabato 2. 11.: Toss-up → Leans R** — „The one Toss-up race where we feel the best about Republicans is Iowa, where Rep. Ashley Hinson (R, IA-2) has proved to be a more nimble candidate than many of her fellow Republicans.“ (**primární**). Cook Toss-up, IE Toss-up (k 29. 10.) beze změny.
+- Průměry: 270toWin web (2. 11.) 47,0 / 47,0 → **0** (beze změny); Wikipedia 2. 11. (data do 1. 11.): DDHQ Hinson +0,7 (dříve +0,4); FiftyPlusOne Turek +0,3 (dříve +0,7); RCP (9. 10.–1. 11.) Hinson +0,5 (dříve +0,3).
+
+### us-sen-sc — Jižní Karolína: Trafalgar −2, Rasmussen −3, Resonance +1
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | D. Graham (R) | Andrews (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Trafalgar Group (R) | vlastní; na webu Trafalgaru „SC Statewide General Election Poll“ 2. 11. | October 31 – November 1, 2026 | 1,091 (LV) | ± 2.9% | 48% | 46% | 3% (Whitener (L) 2, Hackett (C) 1) | 4% | **−2** | Wikipedia; existence/datum [thetrafalgargroup.org](https://www.thetrafalgargroup.org/) | toplines **jen sekundární** (PDF nestáhnuto) |
+| Rasmussen Reports | vlastní | October 31, 2026 | 1,028 (LV) | ± 3.0% | 50% | 47% | – | 6% (dle Wikipedie; součet 103) | **−3** | Wikipedia | **jen sekundární** |
+| Resonance Media Services (R) | finální memo 2. 11. („Wilson Over 50 Percent; Senate Race Comes Down to Tuesday“, FITSNews) | October 30, 2026 | 600 (LV) | ± 4.0% | 45% | 46% | 3% | 7% | **+1** | Wikipedia | **jen sekundární** |
+
+- Vše uvnitř rozpětí souboru. Sabato 2. 11. podle textu SC „shaky Leans Republican“ (**primární**, jen výtah); Cook Lean R, IE Tilt R beze změny. Průměry na Wikipedii beze změny (DDHQ do 29. 10. Graham +0,1; FiftyPlusOne +0,4).
+
+### us-sen-ks — Kansas: AtlasIntel Hamilton +7; Survey 160 +6/+7; Sabato → Leans D
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Marshall (R) | Hamilton (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| AtlasIntel | finální vlna; PW 2. 11. 20:24 ET | October 28 – November 1, 2026 | 2,038 (LV) | ± 2.0% | 45% | 52% | 3% (jiný 2, nevolil by 1) | 1% | **+7** | Wikipedia; PW (shodně) | **jen sekundární** |
+| Survey 160 | vlastní („pre-election surveys in four states“, 2. 11.); text-to-web, live text, IVR, AI telefon | October 27 – November 1, 2026 | 1,267 (LV) / 1,339 (RV) | ± 3.6% | LV s leanery 44 / LV 43 | LV s leanery 50 / LV 50 | 4% | 2–4% | **+6 (LV s leanery) / +7 (LV)** | [Survey 160](https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states); Wikipedia | stránka Survey 160 uvádí Hamilton 50 / Marshall 43, n 1 339 (= RV podle Wikipedie); rozpad LV/RV jen Wikipedia |
+
+- Survey 160 guvernér: Holscher +2 (**primární**).
+- **Sabato 2. 11.: Toss-up → Leans D** — „Democrats enter Election Day as narrow favorites to flip Senate seats in Kansas…“ (**primární**). Cook Toss-up, IE Toss-up beze změny.
+- PW 2. 11. 17:02 ET: Hamilton nazval Trumpův útok „perverted pastor“ „pathetic“ (**jen sekundární**, titulek + výtah).
+- Průměry: 270toWin web (2. 11., 5 průzkumů) 49,8 / 45,2 → +4,6 (beze změny); Wikipedia (data do 1. 11.): DDHQ +3,4; FiftyPlusOne +3,4; RCP (13. 10.–1. 11.) +3,6.
+
+### us-sen-mi — Michigan: Cook → Lean D; průzkumy +1 až +10; Zogby jako jediný s terénem i po podpoře Stevensové
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Rogers (R) | El-Sayed (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| John Zogby Strategies | vlastní; „Eve of Election-Day Poll“; online | October 31 – November 2, 2026 | 1,001 (LV / already voted) | ± 3.2% | 49% | 51% | – | – | **+2** | [Zogby](https://johnzogbystrategies.com/el-sayed-leads-rogers-51-49-new-john-zogby-strategies-eve-of-election-day-poll/) | **primární** |
+| Trafalgar Group (R) | vlastní; zveř. 2. 11. | October 31 – November 1, 2026 (PDF: 10/31–11/01) | 1,087 (LV) | ± 2.9% | 45.9% | 47.1% | 2.1% (Christensen (L) 1,5; Marsh 0,3; Long 0,3) | 4.8% | **+1** (přesně +1,2) | [Trafalgar PDF](https://www.thetrafalgargroup.org/wp-content/uploads/2026/11/MI-Gen-Sen-Poll-Report-1101.pdf) | **primární** |
+| Emerson College | pro Poll Vault (Substack S. Trende); zveř. 2. 11. | October 31 – November 1, 2026 | 500 (LV) | ± 4.4% | 45% | 51% | 3% (Christensen (L) 3) | – | **+6** | Wikipedia (zdroj za paywallem) | **jen sekundární** |
+| Concord Public Opinion Partners (D) | vlastní | October 31 – November 1, 2026 | 510 (LV) | ± 4.3% | 41% | 51% | 3% | 5% | **+10** | Wikipedia | **jen sekundární** |
+| AtlasIntel | finální vlna; PW 2. 11. 20:21 ET | October 28 – November 1, 2026 | 1,316 (LV) | ± 3.0% | 46% | 54% | 0% | 0% | **+8** | Wikipedia; PW (shodně) | **jen sekundární** |
+
+- **Podpora Stevensové pro Rogerse (1. 11.):** terén Zogby (31. 10.–2. 11.) jako jediný zčásti po ní; Trafalgar, Emerson, Concord končí 1. 11. Zogby (**primární**) ji nezmiňuje; Trumpovo schválení mezi voliči MI v Zogby 38 %.
+- **Cook 2. 11. (J. Taylor): Michigan Toss-up → Lean D** ([Cook Substack](https://thecookpoliticalreport.substack.com/p/michigan-senate-race-moves-from-toss), **primární**): „our decision to move this race was in the making before the endorsement fracas, and it did not change our view.“ Sabato Leans D (od podzimu, beze změny); IE Tilt D (29. 10.).
+- **Trump zrušil poslední zastávku v Michiganu** a místo ní měl projev u Reflecting Pool (Lincoln Memorial) a 9 tele-mítinků v soutěžních obvodech (PW 2. 11. 19:05 ET, **jen sekundární**).
+- Průměry: **270toWin web (2. 11., 9 průzkumů vč. Trafalgaru) El-Sayed 50,4 / Rogers 44,8 → +5,6** (dříve +6,3); Wikipedia 2. 11. (data do 1. 11.): DDHQ +5,2 (dříve +6,1); FiftyPlusOne +5,3; RCP (15. 10.–1. 11.) +5,3.
+
+### us-sen-mn — Minnesota: AtlasIntel +2; Survey 160 +9/+10
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Flanagan (DFL) | Tafoya (R) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| AtlasIntel | finální vlna | October 28 – November 1, 2026 | 2,133 (LV) | ± 2.0% | 48% | 46% | 5% (jiný 3, nevolil by 2) | 1% | **+2** | Wikipedia | **jen sekundární** |
+| Survey 160 | vlastní (2. 11.); multimodální | October 27 – November 1, 2026 | 1,365 (LV) / 1,423 (RV) | ± 3.7% | 52% (LV s leanery i LV) | 43% | 1–2% | 2–4% | **+9** (LV) | [Survey 160](https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states); Wikipedia | stránka: Flanagan 52 / Tafoya 42, n 1 410 (**primární**; n se od Wikipedie liší) |
+
+- Survey 160 guvernér: Klobuchar +11 (**primární**). Rozpětí souboru (+1 až +10) se nemění.
+- Průměry Wikipedia 2. 11. (data do 1. 11.): 270toWin +5,6; DDHQ +6,6; FiftyPlusOne +7,2.
+
+### us-sen-ne — Nebraska: nic nového
+
+- Žádný nový průzkum v okně (Wikipedia). Ratingy: Cook Lean R, IE Tilt R, Sabato Leans R (2. 11., beze změny).
+
+### us-sen-oh — Ohio: AtlasIntel Brown +7; Emerson +2; Trafalgar +2; Survey 160 +4/+5; Sabato → Leans D
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Husted (R) | Brown (D) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| AtlasIntel | finální vlna; PW 2. 11. 20:43 ET | October 28 – November 1, 2026 | 1,801 (LV) | ± 2.0% | 44% | 51% | 4% (jiný 3, nevolil by 1) | 1% | **+7** | Wikipedia; PW (shodně) | **jen sekundární** |
+| Emerson College | pro Poll Vault; zveř. 2. 11. | October 31 – November 1, 2026 | 930 (LV) | ± 3.2% | 46% | 48% | 6% (Redpath (L) 4, Levy (I) 2) | – | **+2** | Wikipedia (zdroj za paywallem) | **jen sekundární** |
+| Trafalgar Group (R) | vlastní; zveř. 2. 11. | October 31 – November 1, 2026 (PDF: 10/31–11/01) | 1,092 (LV) | ± 2.9% | 45.1% | 46.6% | 4.8% (Levy (I) 3,4; Redpath (L) 1,4) | 3.5% | **+1,5** | [Trafalgar PDF](https://www.thetrafalgargroup.org/wp-content/uploads/2026/11/OH-Midterms-Report-1102.pdf) | **primární** |
+| Survey 160 | vlastní (2. 11.); text + pevné linky | October 27 – November 1, 2026 | 1,122 (LV) / 1,159 (RV) | ± 5.4% | LV s leanery 46 / LV 45 | 50 / 49 | 3–4% | 1–3% | **+4** | [Survey 160](https://www.survey160.com/methodological-research-blog/survey-160-pre-election-surveys-in-four-states); Wikipedia | stránka: Brown 50 / Husted 45, n 1 159 (= RV dle Wikipedie) |
+
+- Survey 160 guvernér: Acton +8 (**primární**).
+- **Sabato 2. 11.: Toss-up → Leans D** — „Democrats also appear to have an edge in Ohio.“ (**primární**). Cook Toss-up, IE Tilt D (29. 10.) beze změny.
+- Průměry: 270toWin web (2. 11., 7 průzkumů) Brown 48,7 / Husted 47,0 → +1,7 (beze změny); Wikipedia 2. 11.: DDHQ +2,3 (dříve +2,7); FiftyPlusOne +2,9; RCP (12. 10.–1. 11.) +2,8.
+
+### us-sen-tx — Texas: Research Co. +3; Emerson +2; Sabato → Leans D
+
+| Agentura | Objednatel / poznámka | Terén | n (pop.) | MoE | Paxton (R) | Talarico (D) | T. Brown (L) | Jiní | Nerozh. | Marže D−R | Zdroj | Ověření |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Research Co. | vlastní; zveř. 2. 11. | October 31 – November 2, 2026 | 450 (LV) | ± 4.6% | 46% (270toWin: 48 %) | 49% (270toWin: 51 %) | 1% | – | 4% | **+3** | Wikipedia / 270toWin | **jen sekundární** |
+| Emerson College | pro Poll Vault; zveř. 2. 11. | October 31 – November 1, 2026 | 500 (LV) | – | 48% | 50% | 2% | – | – | **+2** | Wikipedia (zdroj za paywallem) | **jen sekundární** |
+
+- Trafalgar TX (0) a AtlasIntel TX (+6) už v Doplňku 2. 11.
+- **Sabato 2. 11.: Toss-up → Leans D** (text: zisk D v Texasu „just seems, on a gut level, insane“, přesto Leans D; **primární**). Cook Toss-up, IE Tilt D beze změny.
+- Průměry: **270toWin web (2. 11.) Talarico 49,6 / Paxton 46,3 → +3,3** (dříve +3,4); Wikipedia 2. 11.: DDHQ +3,5 (dříve +4,1); FiftyPlusOne +3,8; RCP (15. 10.–1. 11.) +2,5.
+
+### Ostatní senátní závody (pro kontrolu Senátu)
+
+**Aljaška — InsiderAdvantage remíza, AtlasIntel Peltola +5; odvolání DOJ bez nové zprávy:**
+
+| Agentura | Terén | n | MoE | Sullivan (R) | Peltola (D) | Jiní | Marže D−R | Ověření |
+|---|---|---|---|---|---|---|---|---|
+| InsiderAdvantage (R) | October 31 – November 1, 2026 | 1,200 (LV) | ± 2.8% | 48 (RCV finále 50) | 48 (RCV finále 50) | Dan J. Sullivan (I) 2, Heikes (R) 1; nerozh. 1 | **0** (RCV 0) | **jen sekundární** (Wikipedia) |
+| AtlasIntel | October 28 – November 1, 2026 | 522 (LV) | ± 4.0% | 45 | 50 | Dan J. Sullivan 1, Heikes 2, jiný 2 | **+5** | **jen sekundární** (Wikipedia; PW 20:41 ET shodně) |
+
+- Odvolání DOJ k 9. obvodu (podáno 1. 11.): v okně nenalezena žádná další zpráva (rozhodnutí, harmonogram).
+- Sabato 2. 11. Leans D (beze změny, „We previously moved Alaska and Michigan to Leans Democratic earlier this fall“); Cook Toss-up, IE Toss-up.
+- Průměry Wikipedia 2. 11.: 270toWin +3,5; DDHQ +1,4; FiftyPlusOne +1,7; RCP (8. 10.–1. 11.) +1,0.
+
+**Další závody:**
+
+| Stát | Agentura | Terén | n | MoE | R | D | Marže D−R | Ověření |
+|---|---|---|---|---|---|---|---|---|
+| ME | AtlasIntel | October 28 – November 1, 2026 | 967 (LV) | ± 3.0% | Collins 44 | Jackson 53 | **+9** | **jen sekundární** (Wikipedia; PW 20:23 ET shodně) |
+| ME | Emerson College (pro Poll Vault, zveř. 2. 11.) | October 31 – November 1, 2026 | 600 (LV) | ± 4.0% | Collins 51 | Jackson 49 | **−2** | **jen sekundární** (Wikipedia; zdroj za paywallem) |
+| ME | Rasmussen Reports (R) | October 27 – November 2, 2026 | 896 (LV) | ± 3.0% | Collins 46 | Jackson 49 | **+3** | **jen sekundární** (Wikipedia; nerozh. 5) |
+| ME | Survey 160 (2. 11.) | October 27 – November 1, 2026 | 1,323 (LV) / 1,335 (RV) | ± 4.1% | Collins 47 (LV s leanery) / 46 (LV) | Jackson 50 / 50 | **+3 / +4** | stránka Survey 160: Jackson 49 / Collins 47, n 1 334 (**primární**; = RV dle Wikipedie) |
+| NH | AtlasIntel | October 28 – November 1, 2026 | 1,057 (LV) | ± 3.0% | Sununu 44 | Pappas 52 | **+8** | **jen sekundární** (Wikipedia) |
+| NC | AtlasIntel | October 28 – November 1, 2026 | 1,459 (LV) | ± 3.0% | Whatley 42 | Cooper 56 | **+14** | **jen sekundární** (Wikipedia) |
+| NC | East Carolina University („Cooper Leads Whatley by 9 Points as Election Day Nears“, datováno 1. 11.; v souboru chybělo) | October 26–29, 2026 | 1,041 (LV) | ± 3.5% | Whatley 45 | Cooper 54 | **+9** | **jen sekundární** (Wikipedia) |
+| GA | InsiderAdvantage (R) | October 31 – November 2, 2026 | 2,500 (LV) | ± 2.0% | Collins 46 | Ossoff 53 | **+7** | **jen sekundární** (Wikipedia) |
+| GA | Research Co. | October 31 – November 2, 2026 | 450 (LV) | ± 4.6% | Collins 42 | Ossoff 52 | **+10** | **jen sekundární** (Wikipedia) |
+
+- **ME:** Emerson (Collins +2) je jediný průzkum v okně s náskokem Collinsové; ostatní +3 až +9. Survey 160 guvernér Pingree +12. **Sabato 2. 11.: Toss-up → Leans D** (**primární**, text: Collins „faces an imperfect challenger“, přesto D narrow favorites); Cook Toss-up, IE Toss-up. Průměry: 270toWin web (2. 11., 8 průzkumů) Jackson 50,4 / Collins 45,6 → **+4,8** (dříve +4,2); Wikipedia 2. 11.: DDHQ +5,7 (dříve +4,9); FiftyPlusOne +5,0; RCP +3,3.
+- **NH, NC, GA:** ratingy beze změny (Sabato 2. 11.: NH Likely D, NC Likely D (zisk), GA Likely D podle Wikipedie). Průměry na Wikipedii beze změny.
+
+### Generic ballot a schválení Trumpa
+
+| Agentura | Terén | n | Generic ballot | Schválení Trumpa | Ověření |
+|---|---|---|---|---|---|
+| Financial Times / Focaldata (PW 2. 11. 16:42 ET) | neověřeno | LV, ± 2.4% | **D 52 – R 45 → +7** | – | **jen sekundární** (PW titulek + výtah; terén a n nezjištěny) |
+
+- Státní: Zogby MI — schválení Trumpa 38 % (**primární**).
+- Průměry na Wikipedii nečteny (stránka celostátních průzkumů vrátila chybu Wikimedia).
+
+### Ratingy (Cook / Sabato / Inside Elections)
+
+- **Sabato's Crystal Ball — FINÁLNÍ RATINGY 2. 11.** („THE FINAL 2026 RATINGS: Democrats Favored to Capture House, Senate, and Gubernatorial Majorities“, K. Kondik a J. M. Coleman; [Substack](https://sabatoscrystalball.substack.com/p/the-final-2026-ratings-democrats), **primární web**): **Senát 53 D / 47 R (alespoň Leans), žádný toss-up**; **Sněmovna 239 D / 196 R**, od 1. 10. 66 posunů k D, finální toss-upy rozděleny 14 : 3 pro D; **guvernéři 28 D / 22 R**. Změny v Senátu (stav podle sloupce Sabato na Wikipedii 3. 11., v souladu s textem článku): **KS, ME, OH, TX Toss-up → Leans D (zisk); IA Toss-up → Leans R**. Ostatní: AK Leans D (zisk), MI Leans D, MN Likely D, NH Likely D, NC Likely D (zisk), GA Likely D, FL Likely R, NE Leans R, SC Leans R. Citát: „Democrats netting two Senate seats in 2026 would be a good result for them“ (v kontextu začátku cyklu).
+- **Cook 2. 11.: Michigan Toss-up → Lean D** (viz us-sen-mi; **primární**). Ostatní Cook podle Wikipedie (access 2. 11.): AK, IA, KS, ME, OH, TX Toss-up; MN, NH Lean D; NC Likely D (zisk); GA Likely D; FL Likely R; NE, SC Lean R. Cook (PW 22:27 ET, **jen sekundární**): Sněmovna zisk D 15–25 křesel.
+- **Inside Elections:** beze změny od 29. 10. (Wikipedia).
+
+### Předčasné hlasování (jen počty)
+
+- **Florida:** viz us-sen-fl (FL DOS compiled 2. 11. 11:03; celkem 5 408 792; registrovaní R +133 177).
+- **Texas:** beze změny (≈ 7,74 mil., jen sekundární).
+- Ostatní státy: nové oficiální počty nedohledány.
+
+### Další zprávy z pondělí 2. 11. (vše PW, **jen sekundární**)
+
+- Nejvyšší soud USA zamítl žádost administrativy o vyřazení ~20 000 hlasovacích lístků v Kalifornii (údajně neobčanů), bez uvedených disentů (PW 17:57 ET).
+- Federální velká porota ve Washingtonu odmítla obžalovat v případu údajného dvojího hlasování z roku 2024 (PW 17:54 ET).
+- Administrativa uvolnila zadržované prostředky na pomoc po katastrofách (Kalifornie, Minnesota), většina směřuje do republikánských obvodů (PW 19:02 ET).
+- Demokratický super PAC (nejmenovaný) utratil 77,7 mil. USD v osmi senátních závodech (PW 17:25 ET).
+
+### Sněmovna
+
+- Sabato finále: 239 D / 196 R (viz Ratingy). Cook: zisk D 15–25 (jen sekundární). Generic ballot FT/Focaldata D +7.
+
+### research_limitation (doplněk)
+
+- Sweep 02:47–02:54 ET v úterý; volební místnosti ještě neotevřeny — žádné výsledky ani exit polly (a ani by se nezapisovaly).
+- Emerson/Poll Vault (MI, ME, OH, TX) za paywallem — čísla jen z Wikipedie. AtlasIntel čísla jen z Wikipedie/PW (primární zdroj neotevřen). Trafalgar SC PDF nestaženo (URL nenalezena), toplines jen Wikipedia.
+- Survey 160: stránka uvádí u každého státu jedno n, které odpovídá RV vzorku na Wikipedii, s čísly „LV s leanery“ — rozpor nevyjasněn (MN: stránka 52/42, n 1 410; Wikipedia LV 52/43, n 1 365).
+- Research Co. TX: Wikipedia 46/49 vs 270toWin 48/51 (pravděpodobně leaneři); primární zdroj neotevřen.
+- FT/Focaldata: terén a n nezjištěny. Ratingy Cook u ostatních států jen z Wikipedie (cookpolitical.com → 403).
+- Sabato: tabulka změn v článku je obrázek — přechody jednotlivých států převzaty ze sloupce Sabato na Wikipedii (datum 2. 11.) a ověřeny textem článku (IA, KS, ME, OH, TX).
+- Sekce „Predictions“ na Wikipedii a widget trhu na 270toWin nečteny pro účely souboru; z Predictions převzaty jen sloupce Cook / IE / Sabato. Řádky průměrů modelových webů v tabulkách průměrů přeskočeny.
