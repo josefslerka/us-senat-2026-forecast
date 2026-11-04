@@ -1,0 +1,812 @@
+{
+ "status": "media_preliminary",
+ "versions": {
+  "evaluated": "2026-11-03",
+  "freeze": "2026-11-02"
+ },
+ "races": {
+  "us-sen-fl": {
+   "winner": "Moody",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.89,
+     "brier": 0.0222,
+     "log": 0.1165,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9774,
+     "brier": 0.001,
+     "log": 0.0229,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.927,
+     "brier": 0.0107,
+     "log": 0.0758,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.9148,
+     "brier": 0.0145,
+     "log": 0.089,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.9098,
+     "brier": 0.0162,
+     "log": 0.0945,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.89,
+     "brier": 0.0222,
+     "log": 0.1165,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9774,
+     "brier": 0.001,
+     "log": 0.0229,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.9232,
+     "brier": 0.0118,
+     "log": 0.0799,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.9253,
+     "brier": 0.0112,
+     "log": 0.0777,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.9175,
+     "brier": 0.0135,
+     "log": 0.0861,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-sen-ia": {
+   "winner": "Turek",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.331,
+     "brier": 0.8819,
+     "log": 1.1056,
+     "fav_hit": false
+    },
+    "AI_ext": {
+     "p_win": 0.331,
+     "brier": 0.8819,
+     "log": 1.1056,
+     "fav_hit": false
+    },
+    "Model": {
+     "p_win": 0.2852,
+     "brier": 1.0219,
+     "log": 1.2546,
+     "fav_hit": false
+    },
+    "Sazky": {
+     "p_win": 0.5152,
+     "brier": 0.47,
+     "log": 0.6631,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.4574,
+     "brier": 0.5883,
+     "log": 0.7821,
+     "fav_hit": false
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.3,
+     "brier": 0.9662,
+     "log": 1.204,
+     "fav_hit": false
+    },
+    "AI_ext": {
+     "p_win": 0.3,
+     "brier": 0.9662,
+     "log": 1.204,
+     "fav_hit": false
+    },
+    "Model": {
+     "p_win": 0.2965,
+     "brier": 0.9898,
+     "log": 1.2157,
+     "fav_hit": false
+    },
+    "Sazky": {
+     "p_win": 0.4707,
+     "brier": 0.5602,
+     "log": 0.7535,
+     "fav_hit": false
+    },
+    "Blend": {
+     "p_win": 0.4162,
+     "brier": 0.6812,
+     "log": 0.8766,
+     "fav_hit": false
+    }
+   }
+  },
+  "us-sen-sc": {
+   "winner": "Andrews",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.32,
+     "brier": 0.9114,
+     "log": 1.1394,
+     "fav_hit": false
+    },
+    "AI_ext": {
+     "p_win": 0.32,
+     "brier": 0.9114,
+     "log": 1.1394,
+     "fav_hit": false
+    },
+    "Model": {
+     "p_win": 0.2062,
+     "brier": 1.2602,
+     "log": 1.5789,
+     "fav_hit": false
+    },
+    "Sazky": {
+     "p_win": 0.3047,
+     "brier": 0.9669,
+     "log": 1.1885,
+     "fav_hit": false
+    },
+    "Blend": {
+     "p_win": 0.3102,
+     "brier": 0.9511,
+     "log": 1.1705,
+     "fav_hit": false
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.32,
+     "brier": 0.9114,
+     "log": 1.1394,
+     "fav_hit": false
+    },
+    "AI_ext": {
+     "p_win": 0.32,
+     "brier": 0.9114,
+     "log": 1.1394,
+     "fav_hit": false
+    },
+    "Model": {
+     "p_win": 0.2146,
+     "brier": 1.2337,
+     "log": 1.539,
+     "fav_hit": false
+    },
+    "Sazky": {
+     "p_win": 0.2868,
+     "brier": 1.0174,
+     "log": 1.2491,
+     "fav_hit": false
+    },
+    "Blend": {
+     "p_win": 0.2976,
+     "brier": 0.9861,
+     "log": 1.212,
+     "fav_hit": false
+    }
+   }
+  },
+  "us-sen-ks": {
+   "winner": "Hamilton",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.634,
+     "brier": 0.2643,
+     "log": 0.4557,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.634,
+     "brier": 0.2643,
+     "log": 0.4557,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.4427,
+     "brier": 0.6212,
+     "log": 0.8149,
+     "fav_hit": false
+    },
+    "Sazky": {
+     "p_win": 0.6549,
+     "brier": 0.2383,
+     "log": 0.4233,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.6492,
+     "brier": 0.2459,
+     "log": 0.432,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.577,
+     "brier": 0.3537,
+     "log": 0.5499,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.577,
+     "brier": 0.3537,
+     "log": 0.5499,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.4446,
+     "brier": 0.6169,
+     "log": 0.8106,
+     "fav_hit": false
+    },
+    "Sazky": {
+     "p_win": 0.6426,
+     "brier": 0.2555,
+     "log": 0.4423,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.6234,
+     "brier": 0.2834,
+     "log": 0.4726,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-sen-mi": {
+   "winner": "ElSayed",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.782,
+     "brier": 0.0929,
+     "log": 0.2459,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9047,
+     "brier": 0.0181,
+     "log": 0.1002,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.7163,
+     "brier": 0.161,
+     "log": 0.3337,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.8437,
+     "brier": 0.0489,
+     "log": 0.17,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.827,
+     "brier": 0.0597,
+     "log": 0.1899,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.75,
+     "brier": 0.1225,
+     "log": 0.2877,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.874,
+     "brier": 0.0317,
+     "log": 0.1347,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.7052,
+     "brier": 0.1738,
+     "log": 0.3493,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.8437,
+     "brier": 0.0489,
+     "log": 0.17,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.8189,
+     "brier": 0.0655,
+     "log": 0.1998,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-sen-mn": {
+   "winner": "Flanagan",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.875,
+     "brier": 0.0301,
+     "log": 0.1335,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9688,
+     "brier": 0.0019,
+     "log": 0.0317,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.8159,
+     "brier": 0.0678,
+     "log": 0.2035,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.9582,
+     "brier": 0.0035,
+     "log": 0.0427,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.9411,
+     "brier": 0.0069,
+     "log": 0.0607,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.875,
+     "brier": 0.0301,
+     "log": 0.1335,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9688,
+     "brier": 0.0019,
+     "log": 0.0317,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.8363,
+     "brier": 0.0536,
+     "log": 0.1788,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.9696,
+     "brier": 0.0018,
+     "log": 0.0309,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.9525,
+     "brier": 0.0045,
+     "log": 0.0487,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-sen-ne": {
+   "winner": "Ricketts",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.7425,
+     "brier": 0.1301,
+     "log": 0.2977,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.8661,
+     "brier": 0.0358,
+     "log": 0.1438,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.8646,
+     "brier": 0.0367,
+     "log": 0.1455,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.6953,
+     "brier": 0.1857,
+     "log": 0.3634,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7114,
+     "brier": 0.1664,
+     "log": 0.3405,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.7425,
+     "brier": 0.1301,
+     "log": 0.2977,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.8661,
+     "brier": 0.0358,
+     "log": 0.1438,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.8809,
+     "brier": 0.0284,
+     "log": 0.1268,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.731,
+     "brier": 0.1447,
+     "log": 0.3134,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7355,
+     "brier": 0.1397,
+     "log": 0.3072,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-sen-oh": {
+   "winner": "Brown",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.624,
+     "brier": 0.279,
+     "log": 0.4716,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.624,
+     "brier": 0.279,
+     "log": 0.4716,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.5345,
+     "brier": 0.4334,
+     "log": 0.6264,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.7698,
+     "brier": 0.106,
+     "log": 0.2616,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7297,
+     "brier": 0.1459,
+     "log": 0.3151,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.563,
+     "brier": 0.3776,
+     "log": 0.5745,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.563,
+     "brier": 0.3776,
+     "log": 0.5745,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.5719,
+     "brier": 0.3665,
+     "log": 0.5588,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.7761,
+     "brier": 0.1003,
+     "log": 0.2535,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7189,
+     "brier": 0.1578,
+     "log": 0.33,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-sen-tx": {
+   "winner": "Talarico",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.672,
+     "brier": 0.2132,
+     "log": 0.3975,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.672,
+     "brier": 0.2132,
+     "log": 0.3975,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.5187,
+     "brier": 0.4633,
+     "log": 0.6564,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.8039,
+     "brier": 0.0769,
+     "log": 0.2183,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7681,
+     "brier": 0.1074,
+     "log": 0.2638,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.672,
+     "brier": 0.2132,
+     "log": 0.3975,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.672,
+     "brier": 0.2132,
+     "log": 0.3975,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.5148,
+     "brier": 0.4708,
+     "log": 0.664,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.7905,
+     "brier": 0.0878,
+     "log": 0.2351,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7577,
+     "brier": 0.1172,
+     "log": 0.2774,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-senate-control": {
+   "winner": "Democrats",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.66,
+     "brier": 0.2312,
+     "log": 0.4155,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.66,
+     "brier": 0.2312,
+     "log": 0.4155,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.533,
+     "brier": 0.4362,
+     "log": 0.6292,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.7547,
+     "brier": 0.1203,
+     "log": 0.2814,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7273,
+     "brier": 0.1487,
+     "log": 0.3184,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.63,
+     "brier": 0.2738,
+     "log": 0.462,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.63,
+     "brier": 0.2738,
+     "log": 0.462,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.536,
+     "brier": 0.4306,
+     "log": 0.6236,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.7501,
+     "brier": 0.1249,
+     "log": 0.2876,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.7157,
+     "brier": 0.1617,
+     "log": 0.3346,
+     "fav_hit": true
+    }
+   }
+  },
+  "us-house-control": {
+   "winner": "Democrats",
+   "evaluated": {
+    "AI": {
+     "p_win": 0.85,
+     "brier": 0.045,
+     "log": 0.1625,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9528,
+     "brier": 0.0045,
+     "log": 0.0484,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.9356,
+     "brier": 0.0083,
+     "log": 0.0666,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.9541,
+     "brier": 0.0042,
+     "log": 0.047,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.9328,
+     "brier": 0.009,
+     "log": 0.0695,
+     "fav_hit": true
+    }
+   },
+   "freeze": {
+    "AI": {
+     "p_win": 0.85,
+     "brier": 0.045,
+     "log": 0.1625,
+     "fav_hit": true
+    },
+    "AI_ext": {
+     "p_win": 0.9528,
+     "brier": 0.0045,
+     "log": 0.0484,
+     "fav_hit": true
+    },
+    "Model": {
+     "p_win": 0.9434,
+     "brier": 0.0064,
+     "log": 0.0583,
+     "fav_hit": true
+    },
+    "Sazky": {
+     "p_win": 0.9512,
+     "brier": 0.0048,
+     "log": 0.05,
+     "fav_hit": true
+    },
+    "Blend": {
+     "p_win": 0.93,
+     "brier": 0.0098,
+     "log": 0.0726,
+     "fav_hit": true
+    }
+   }
+  }
+ },
+ "summary": {
+  "evaluated": {
+   "AI": {
+    "n": 11,
+    "brier": 0.2819,
+    "log": 0.4492,
+    "fav_hits": 9
+   },
+   "AI_ext": {
+    "n": 11,
+    "brier": 0.2584,
+    "log": 0.3938,
+    "fav_hits": 9
+   },
+   "Model": {
+    "n": 11,
+    "brier": 0.411,
+    "log": 0.5805,
+    "fav_hits": 8
+   },
+   "Sazky": {
+    "n": 11,
+    "brier": 0.2032,
+    "log": 0.3408,
+    "fav_hits": 10
+   },
+   "Blend": {
+    "n": 11,
+    "brier": 0.2223,
+    "log": 0.367,
+    "fav_hits": 9
+   }
+  },
+  "freeze": {
+   "AI": {
+    "n": 11,
+    "brier": 0.3133,
+    "log": 0.4841,
+    "fav_hits": 9
+   },
+   "AI_ext": {
+    "n": 11,
+    "brier": 0.2883,
+    "log": 0.4281,
+    "fav_hits": 9
+   },
+   "Model": {
+    "n": 11,
+    "brier": 0.3984,
+    "log": 0.5641,
+    "fav_hits": 8
+   },
+   "Sazky": {
+    "n": 11,
+    "brier": 0.2143,
+    "log": 0.3512,
+    "fav_hits": 9
+   },
+   "Blend": {
+    "n": 11,
+    "brier": 0.2382,
+    "log": 0.3834,
+    "fav_hits": 9
+   }
+  }
+ }
+}

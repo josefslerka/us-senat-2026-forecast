@@ -35,6 +35,30 @@ table.cards td{border:0;padding:3px 0;display:flex;justify-content:space-between
 table.cards td::before{content:attr(data-label);color:var(--muted);text-align:left}
 table.cards td.head{font-weight:600;font-size:17px}table.cards td.head::before{content:none}}
 </style></head><body><div class="wrap"><header><a class="brand" href="index.html">USA 2026 · Senát · forecast</a><nav><a href="index.html">Přehled</a><a href="pravidla.html">Pravidla</a><a href="denik.html">Deník</a></nav></header><h1>Deník</h1>
+<h2>St 4. 11. 2026: den 8, VÝSLEDKY</h2>
+<h3>Co se stalo</h3><ul>
+<li>Demokraté získali Senát i Sněmovnu (podle NBC zhruba 255 křesel). Z našich otázek vyhráli demokraté Iowu (Turek), Jižní Karolínu (Andrewsová), Kansas (Hamilton), Michigan (El-Sayed), Minnesotu (Flanaganová), Ohio (Brown) a Texas (Talarico) a obě komory. Republikáni vyhráli Floridu (Moodyová) a Nebrasku (Ricketts).</li>
+<li>Výsledky bereme z vyhlášení AP, jak je uvádějí média. Jsou předběžné, oficiální certifikace přijde později. Kdyby se některý výsledek změnil, skóre přepočítáme.</li></ul>
+<h3>Skóre</h3><ul>
+<li><b>Hodnocená verze (út 3. 11. 9:01):</b> Sázky 0,203 · AI + sázky 0,222 · AI extremizovaná 0,258 · AI 0,282 · model The Economist 0,411. Favorita trefily Sázky v 10 z 11 otázek, AI, AI extremizovaná a AI + sázky v 9, model v 8.</li>
+<li><b>Pondělní freeze (2. 11. 11:17):</b> Sázky 0,214 · AI + sázky 0,238 · AI extremizovaná 0,288 · AI 0,313 · model 0,398. Pořadí je stejné, takže posun hodnocené verze na úterý na závěrech nic nemění. Úterní update AI pomohl (0,313 → 0,282), hlavně v Kansasu, Ohiu a Iowě.</li>
+<li><b>Kde AI ztratila nejvíc:</b> Iowa (0,88; trh 0,47) a Jižní Karolína (0,91; trh 0,97, model 1,26). Kromě nich ztrácela tam, kde byl trh jistější, i když měl stejného favorita: Ohio (AI 62 %, trh 77 %) a Texas (67 % proti 80 %).</li></ul>
+<h3>Co jsme čekali předem</h3>
+<p>V interní předregistraci z út 27. 10. (commit 3304313, 20:26, před prvním odhadem) jsme zapsali tři očekávání:</p><ul>
+<li><b>„Čistá AI bude k jasným favoritům podsebevědomá, AI extremizovaná bude lepší než AI.“</b> Vyšlo. Extremizovaná AI byla lepší v Brieru (0,258 proti 0,282) i v log skóre. Všech pět favoritů, kterým AI dala aspoň 74 %, vyhrálo. Je to druhý předregistrovaný test stejného pravidla po Slovensku a podruhé pomohlo.</li>
+<li><b>„Model bude mít nejnižší Brier, AI + sázky druhá. Nejisté.“</b> Model nevyšel, skončil poslední. AI + sázky byla opravdu druhá, ale nečekali jsme, že vyhrají samotné Sázky.</li>
+<li><b>„Riziko: společná chyba průzkumů jedním směrem, všechny série chybují spolu.“</b> Nastalo. Jižní Karolínu měly špatně všechny série, Iowu všechny kromě sázek.</li></ul>
+<h3>Chyby a nápravy</h3><ul>
+<li><b>Podsebevědomí AI se opakuje</b>, potřetí po Senátu ČR a Slovensku. Extremizace pomáhá, ale zatím jen jako samostatná série. <b>Náprava:</b> v příští studii předregistrujeme extremizaci jako součást hlavní AI série a čistou AI necháme jako kontrolu.</li>
+<li><b>Iowa:</b> AI držela Hinsonovou (66 %), zatímco sázky se v posledních dnech přesunuly k Turkovi. Proč, zatím nevíme. Odpověď dá předregistrované srovnání odhadnutého a skutečného náskoku, až budou konečné podíly hlasů. <b>Náprava:</b> rozbor doplníme sem.</li>
+<li><b>Model:</b> The Economist měl ve sporných státech nejvyšší republikánské odhady (demokratům dával v Jižní Karolíně 47,9 %, v Iowě 48,5 % a v Kansasu 49,6 % hlasů obou hlavních kandidátů) a ve vlně chyboval ve všech najednou. Je to jeden volební rok, tedy prakticky jedno pozorování, ne jedenáct.</li>
+<li><b>Tipsport 3. 11.:</b> Sázky hodnocené verze jsou z Fortuny, protože se nám ráno nenačetly stránky Tipsportu (viz den 7). Pro freeze 2. 11. jsou Sázky z obou kanceláří a pořadí sérií je stejné.</li></ul>
+<h3>Co ještě doplníme</h3><ul>
+<li>Odhad náskoku AI proti průměru průzkumů (předregistrovaná metrika), až budou konečné výsledky.</li>
+<li>Jestli práh 2 bodů pro update pomáhal, nebo škodil: přepočet předpovědí, které jsme kvůli prahu neuložili.</li>
+<li>Kontrolu výsledků proti certifikaci.</li></ul>
+<h3>Nové zdroje dne</h3><ul>
+<li><a href="https://www.nbcnews.com/politics/2026-elections/senate-results">NBC: Senát</a> · <a href="https://www.nbcnews.com/politics/2026-elections/house-results">NBC: Sněmovna</a> · <a href="https://www.cbsnews.com/live-updates/senate-election-results-2026/">CBS: Senát</a> · <a href="https://thehill.com/homenews/campaign/6182241-ricketts-wins-nebraska-senate-race/">The Hill: Nebraska</a> · <a href="https://wpde.com/news/election/live-south-carolina-election-results-live-reports-and-more-midterms-senate-gubernatorial-congress-balance-of-power-governor-president-polls-voting-darline-graham-annie-andrews">WPDE: Jižní Karolína</a> · <a href="https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-democrats-win-senate-in-stunning-rout/">Forbes: přehled</a></li></ul>
 <h2>Út 3. 11. 2026: den 7, volební den, HODNOCENÁ VERZE</h2>
 <h3>Co se stalo</h3><ul>
 <li><b>Změna pravidla.</b> V USA se volí až dnes a místnosti se otevírají v 11:00 až 13:00 našeho času, takže jsme dnes ráno predikovali ještě jednou a hodnotit se bude tato verze (zamčená v 9:01), ne pondělní freeze. Freeze vyhodnotíme vedle, aby bylo vidět, co poslední den přidal nebo ubral. Zapsáno i v pravidlech.</li>

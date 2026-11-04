@@ -1,0 +1,17 @@
+{
+ "status": "media_preliminary",
+ "read": "2026-11-04 (AP race calls as reported by media; certification later)",
+ "winners": {
+  "us-sen-fl": "Moody", "us-sen-ia": "Turek", "us-sen-sc": "Andrews", "us-sen-ks": "Hamilton",
+  "us-sen-mi": "ElSayed", "us-sen-mn": "Flanagan", "us-sen-ne": "Ricketts", "us-sen-oh": "Brown",
+  "us-sen-tx": "Talarico", "us-senate-control": "Democrats", "us-house-control": "Democrats"
+ },
+ "sources": {
+  "us-sen-sc": "https://wpde.com/news/election/live-south-carolina-election-results-live-reports-and-more-midterms-senate-gubernatorial-congress-balance-of-power-governor-president-polls-voting-darline-graham-annie-andrews",
+  "us-sen-ne": "https://thehill.com/homenews/campaign/6182241-ricketts-wins-nebraska-senate-race/",
+  "us-sen-mi": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+  "us-senate-control": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+  "us-house-control": "https://www.nbcnews.com/politics/2026-elections/house-results",
+  "overview": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-democrats-win-senate-in-stunning-rout/"
+ }
+}
